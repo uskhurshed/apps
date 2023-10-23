@@ -29,7 +29,7 @@
      <li>[Certification 2]</li>
      <li>[Award 1]</li>-->
 </ul>
-<h2>🌊 Waterfall Enabled Only</h2>
+<h2>🌊 Waterfall</h2>
 <ul>
     <li>Admob SDK</li>
     <li>Yandex SDK</li>
