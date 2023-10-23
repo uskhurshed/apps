@@ -29,7 +29,7 @@
      <li>[Certification 2]</li>
      <li>[Award 1]</li>-->
 </ul>
-
+<h2>🏆 Waterfall Enabled Only</h2>
 <h2>📝 License</h2>
 <ul>
  <li>Copyright © 2022 [Usmanov Khurshed](https://github.com/uskhurshed).</li>
