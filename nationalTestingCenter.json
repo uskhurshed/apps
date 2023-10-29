@@ -4758,9 +4758,9 @@
         ]
       },
       "ctg7": {
-        "nameCategory": "История",
+        "nameCategory": "Право",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "imgCategory": "https://i.ibb.co/StbH34Q/3.png",
         "questions": [
           {
             "quiz": "В результате чего возникло Древнегерманское государство?",
@@ -5285,15 +5285,15 @@
         ]
       },
       "ctg8": {
-        "nameCategory": "История",
+        "nameCategory": "Литература",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "imgCategory": "https://i.ibb.co/KK1Csx1/2.png",
         "questions": []
       },
       "ctg9": {
-        "nameCategory": "История",
+        "nameCategory": "Физика",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "imgCategory": "https://i.ibb.co/StbH34Q/3.png",
         "questions": [
           {
             "quiz": "Пассажирский автобус приехал из города Душанбе в город Вахдат за t = 20 минут, двигаясь со средней скоростью 15 м/с. Каково среднее расстояние между этими городами?",
@@ -10530,9 +10530,9 @@
         ]
       },
       "ctg7": {
-        "nameCategory": "История",
-        "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "nameCategory": "Ҳуқуқ",
+        "subNameCategory": "Қисми А",
+        "imgCategory": "https://i.ibb.co/StbH34Q/3.png",
         "questions": [
           {
             "quiz": "Давлати олмонӣ дар натиҷаи чӣ пайдо шудааст?",
@@ -11057,9 +11057,9 @@
         ]
       },
       "ctg8": {
-        "nameCategory": "История",
-        "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "nameCategory": "Адабиёт",
+        "subNameCategory": "Қисми А",
+        "imgCategory": "https://i.ibb.co/KK1Csx1/2.png",
         "questions": [
           {
             "quiz": "Кадом хели адабиёт пештар пайдо шудааст?",
@@ -11576,9 +11576,9 @@
         ]
       },
       "ctg9": {
-        "nameCategory": "История",
-        "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "nameCategory": "Физика",
+        "subNameCategory": "Қисми А",
+        "imgCategory": "https://i.ibb.co/StbH34Q/3.png",
         "questions": [
           {
             "quiz": "Автобуси мусофиркаш аз шаҳри Душанбе ба шаҳри Ваҳдат дар t = 20 дақиқа бо суръати миёнаи 𝝑 = 15 м/с рафта расид. Масофаи миёнаи байни ин шаҳрҳо чӣ қадар аст?",
