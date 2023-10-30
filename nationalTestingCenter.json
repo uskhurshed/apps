@@ -439,6 +439,7 @@
         "nameCategory": "Таджикский язык",
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/HK6kM2K/quiz-tjk.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Дар кадом калимаҳо садоноки ӣ овози таркиби калима аст?",
@@ -1246,6 +1247,7 @@
         "nameCategory": "Математика",
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/4t6F1q8/quiz-math.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Наименьшее общее кратное чисел: 13, 65, 91.",
@@ -1893,6 +1895,7 @@
         "nameCategory": "География",
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/4dq9C4z/quiz-geo.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Основоположник географии.",
@@ -2700,6 +2703,7 @@
         "nameCategory": "Биология",
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/nLB4XPb/quiz-bio.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Что означает греческое слово bios (биос)?",
@@ -3507,6 +3511,7 @@
         "nameCategory": "Химия",
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/D1CQMBk/quiz-chem.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Указать гетерогенную систему.",
@@ -4114,6 +4119,7 @@
         "nameCategory": "История",
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Какая наука изучает древнюю историю человека на основе памятников материальной культуры?",
@@ -4761,6 +4767,7 @@
         "nameCategory": "Право",
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/StbH34Q/3.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "В результате чего возникло Древнегерманское государство?",
@@ -5288,6 +5295,7 @@
         "nameCategory": "Литература",
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/KK1Csx1/2.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "В переносном значении существительное «угол» употреблено в словосочетании",
@@ -5393,7 +5401,7 @@
             "d": "пересилил",
             "answer": "a"
           },
-           {
+          {
             "quiz": "Лишнее в смысловом отношении слово содержит словосочетание",
             "a": "ранний рассвет",
             "b": "глухой рассвет",
@@ -5481,7 +5489,7 @@
             "d": "поступился большими и существенными ценностями",
             "answer": "b"
           },
-           {
+          {
             "quiz": "«Загнал себя в угол», – говорят о том, кто",
             "a": "оказался в безвыходном положении",
             "b": "поступился существенными ценностями",
@@ -5497,7 +5505,6 @@
             "d": "доказал своё бесспорное преимущество",
             "answer": "d"
           },
-        
           {
             "quiz": "«Точит лясы», – говорят о том, кто",
             "a": "занимается пустой болтовнёй",
@@ -5546,7 +5553,6 @@
             "d": "работа выполнена идеально без затруднений",
             "answer": "c"
           },
-        
           {
             "quiz": "Грамматическая основа предложения «Потом кто-то, крепко хлопнув крышкой рояля, звонко засмеялся.»",
             "a": "потом засмеялся",
@@ -5651,7 +5657,7 @@
             "d": "проросшая трава",
             "answer": "d"
           },
-        {
+          {
             "quiz": "Словосочетание со связью согласование: излучающий тепло",
             "a": "излучающий тепло",
             "c": "за любимым занятием",
@@ -5811,12 +5817,13 @@
             "d": "срезая путь",
             "answer": "d"
           }
-        ]       
+        ]
       },
       "ctg9": {
         "nameCategory": "Физика",
         "subNameCategory": "Компонент А",
         "imgCategory": "https://i.ibb.co/KXvVnm6/1.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Пассажирский автобус приехал из города Душанбе в город Вахдат за t = 20 минут, двигаясь со средней скоростью 15 м/с. Каково среднее расстояние между этими городами?",
@@ -6331,6 +6338,566 @@
             "answer": "a"
           }
         ]
+      },
+      "ctg10": {
+        "nameCategory": "Английский язык",
+        "subNameCategory": "Компонент А",
+        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "type": "variant",
+        "questions": [
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8.\n\tNew Recyclable Plastic\n\tPeople make plastic products by mixing the plastic with additives. The  additives make it difficult to recycle the plastic. To recycle plastic things, people grind them up first, but this new material is not easy to use again. \n\tA laboratory in California made a new type of plastic to deal with this  problem. When scientists put the new plastic in a high‐acid solution, the plastic  and the additives break apart. People can then easily reuse the plastic. \n\tThe scientists hope that this new plastic will help the planet and that there  will be less plastic.  ",
+            "questions": [
+              {
+                "quiz": "The makers of plastic mix the plastic with …",
+                "a": "carbonic acid",
+                "c": "extra ingredient",
+                "b": "toxic substance",
+                "d": "recyclable thing",
+                "answer": "b"
+              },
+              {
+                "quiz": "Recycling plastic with additives is very … process.",
+                "a": "automatic",
+                "c": "problematic",
+                "b": "symptomatic",
+                "d": "systematic",
+                "answer": "c"
+              },
+              {
+                "quiz": "To recycle plastic things, people … them up first.",
+                "a": "pick",
+                "c": "start",
+                "b": "check",
+                "d": "chop",
+                "answer": "d"
+              },
+              {
+                "quiz": "… from recycling plastic is not easy to use again.",
+                "a": "Material",
+                "c": "Plastic",
+                "b": "Additive",
+                "d": "Acid",
+                "answer": "a"
+              },
+              {
+                "quiz": "American scientists change the chemical composition of the plastic to … it.",
+                "a": "produce",
+                "c": "invent",
+                "b": "break",
+                "d": "reuse",
+                "answer": "d"
+              },
+              {
+                "quiz": "The … hope that the new plastic will help the planet.",
+                "a": "makers",
+                "c": "producers",
+                "b": "experts",
+                "d": "laboratorians",
+                "answer": "b"
+              },
+              {
+                "quiz": "Reusing plastic products will stop plastic …",
+                "a": "pollution",
+                "c": "protection",
+                "b": "solution",
+                "d": "production",
+                "answer": "a"
+              },
+              {
+                "quiz": "The story is about a …",
+                "a": "bad production",
+                "c": "new protection",
+                "b": "useful invention",
+                "d": "plastic pollution",
+                "answer": "c"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tBillionaire Helps Students  \n\tA billionaire investor gave almost 400 graduating college seniors a gift to pay off their student loans. He gave this gift during his 2019 speech at the college.\n\tHis news shocked the crowd. One graduate thought that he was lying. The college president said that he had never before seen a gift like this.\n\tA representative said that the investor will give $40 million to help pay off the student loans. Each student has a loan of about $48,000.\n\tFor  most  colleges  and  universities  across the  USA,  analysts  think  that student loan debt was about 41.5 trillion last year.  ",
+            "questions": [
+              {
+                "quiz": "An … billionaire helped students.",
+                "a": "American",
+                "c": "Indian",
+                "b": "Arabian",
+                "d": "Italian",
+                "answer": "a"
+              },
+              {
+                "quiz": "During the speech at the college the investor … to pay the student loans.",
+                "a": "deceived",
+                "c": "insisted",
+                "b": "refused",
+                "d": "promised",
+                "answer": "d"
+              },
+              {
+                "quiz": "The billionaire’s speech shocked …",
+                "a": "someone",
+                "c": "anyone",
+                "b": "everyone",
+                "d": "no one",
+                "answer": "b"
+              },
+              {
+                "quiz": "Hearing the news, one of the students remained …",
+                "a": "critical",
+                "c": "political",
+                "b": "practical",
+                "d": "skeptical",
+                "answer": "d"
+              },
+              {
+                "quiz": "The college president had never seen such …",
+                "a": "operations",
+                "c": "donations",
+                "b": "nations",
+                "d": "occupations",
+                "answer": "c"
+              },
+              {
+                "quiz": "The investor is going to give … million dollars to help the students.",
+                "a": "forty",
+                "c": "fourth",
+                "b": "four",
+                "d": "fourteen",
+                "answer": "a"
+              },
+              {
+                "quiz": "… think that student loan debt was about 41.5 trillion last year.",
+                "a": "Students",
+                "c": "Experts",
+                "b": "Crowds",
+                "d": "Investors",
+                "answer": "c"
+              },
+              {
+                "quiz": "The story is about a kind of …",
+                "a": "show",
+                "c": "mistrust",
+                "b": "charity",
+                "d": "harmony",
+                "answer": "b"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tElephants in Botswana\n\tBotswana is home to 130,000 elephants, which is the most of any country in Africa. In 2014, Botswana banned the elephants hunting to help their population grow.\n\tLast Wednesday, people lifted the ban on elephant hunting, and now licensed hunters can hunt elephants again. The country plans to give out up to 400 elephant hunting licenses every 12 months.\n\tBotswana explained why it lifted the ban. This was because there were more and more conflicts between people and elephants recently. Botswana said that it must protect its elephants and its people.  ",
+            "questions": [
+              {
+                "quiz": "Botswana is a … to 130,000 elephants.",
+                "a": "license",
+                "c": "conflict",
+                "b": "hunter",
+                "d": "habitat",
+                "answer": "d"
+              },
+              {
+                "quiz": "In two thousand …, Botswana banned the elephants hunting.",
+                "a": "and four",
+                "c": "fourty",
+                "b": "fourteen",
+                "d": "four",
+                "answer": "b"
+              },
+              {
+                "quiz": "Botswana banned the elephants hunting to … their population.",
+                "a": "find",
+                "c": "save",
+                "b": "steal",
+                "d": "lift",
+                "answer": "c"
+              },
+              {
+                "quiz": "Hunters with a special … can hunt elephants after lifting the ban.",
+                "a": "contention",
+                "c": "competition",
+                "b": "permission",
+                "d": "combination",
+                "answer": "b"
+              },
+              {
+                "quiz": "Botswana plans to give out up to 400 hunting licenses a …",
+                "a": "year",
+                "c": "month",
+                "b": "week",
+                "d": "decade",
+                "answer": "a"
+              },
+              {
+                "quiz": "Because of the … between people and elephants Botswana lifted the ban.",
+                "a": "tax",
+                "c": "war",
+                "b": "win",
+                "d": "job",
+                "answer": "c"
+              },
+              {
+                "quiz": "The … of Botswana is to protect elephants and people.",
+                "a": "defeat",
+                "c": "loss",
+                "b": "luck",
+                "d": "idea",
+                "answer": "d"
+              },
+              {
+                "quiz": "The story is about elephants’ … in Botswana.",
+                "a": "life",
+                "c": "slavery",
+                "b": "labor",
+                "d": "conflict",
+                "answer": "a"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8.\n\tChicago Teachers Protest \n\tThere was a protest of teachers in Chicago that started one week ago.Teachers wanted smaller class sizes, more staff, and better money for their work.\n\tThey had discussions with schools, but it was difficult to find a solution.They did not agree on many things, and the main problem was money.\n\tThe Chicago Mayor was very unhappy about the situation. He says that the city does not have enough money for all that the teachers want. The teachers think that the city has enough money, and they say that the problem is that the city spends it on other things.  ",
+            "questions": [
+              {
+                "quiz": "The teachers’ … happened in Chicago.",
+                "a": "strike",
+                "c": "talk",
+                "b": "hike",
+                "d": "union",
+                "answer": "a"
+              },
+              {
+                "quiz": "The protest started seven … ago.",
+                "a": "months",
+                "c": "weeks",
+                "b": "hours",
+                "d": "days",
+                "answer": "d"
+              },
+              {
+                "quiz": "One of the teachers’ requirements was to raise a …",
+                "a": "work",
+                "c": "school",
+                "b": "salary",
+                "d": "problem",
+                "answer": "b"
+              },
+              {
+                "quiz": "Schools … to support teachers.",
+                "a": "thought",
+                "c": "needed",
+                "b": "wanted",
+                "d": "refused",
+                "answer": "d"
+              },
+              {
+                "quiz": "The Chicago Mayor was very … about the situation.",
+                "a": "busy",
+                "c": "angry",
+                "b": "envy",
+                "d": "empty",
+                "answer": "c"
+              },
+              {
+                "quiz": "The Mayor says that the city doesn’t have … for teachers’ needs.",
+                "a": "budget",
+                "c": "basket",
+                "b": "gadget",
+                "d": "ticket",
+                "answer": "a"
+              },
+              {
+                "quiz": "The … were sure that the city spent budget money on other things.",
+                "a": "mayors",
+                "c": "strikers",
+                "b": "pupils",
+                "d": "workers",
+                "answer": "c"
+              },
+              {
+                "quiz": "The story is about teachers’ …",
+                "a": "differentiation",
+                "c": "hospitalization",
+                "b": "demonstration",
+                "d": "experimentation",
+                "answer": "b"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tClimate Fund \n\t27 countries agreed to pay $9.8 billion to the Green Climate Fund. These countries want to help the world’s poorest countries fight climate change.\n\tHowever, the US and Australia do not want to help. In the past, the US agreed to pay $3 billion to the fund, but when Donald Trump became president, he lowered the help to $1 billion.\n\tThe  Climate  Action  Network  is  not very  happy  with  the  US  and Australian  way  of thinking.  They  separate themselves  from  the  rest  of  the world. The boss of the fund hopes to get some more money and to double the fund in the next four years.   ",
+            "questions": [
+              {
+                "quiz": "… countries agreed to pay money to the Green Climate Fund.",
+                "a": "Two or seven",
+                "c": "Twenty and seven",
+                "b": "Two to seven",
+                "d": "Twenty‐seven",
+                "answer": "d"
+              },
+              {
+                "quiz": "A lot of countries … on climate change.",
+                "a": "get results",
+                "c": "keep silent",
+                "b": "take action",
+                "d": "stay away",
+                "answer": "b"
+              },
+              {
+                "quiz": "Before Donald Trump the US wanted to … $3 billion to the fund.",
+                "a": "get",
+                "c": "give",
+                "b": "take",
+                "d": "pick",
+                "answer": "c"
+              },
+              {
+                "quiz": "Donald Trump … the sum to $1 billion.",
+                "a": "increased",
+                "c": "unpleased",
+                "b": "decreased",
+                "d": "released",
+                "answer": "b"
+              },
+              {
+                "quiz": "The Climate Action Network doesn’t like American and Australian …",
+                "a": "ideology",
+                "c": "ecology",
+                "b": "sociology",
+                "d": "biology",
+                "answer": "a"
+              },
+              {
+                "quiz": "The US and Australia do not … the Green Climate Fund.",
+                "a": "export",
+                "c": "support",
+                "b": "import",
+                "d": "report",
+                "answer": "c"
+              },
+              {
+                "quiz": "The … of the fund hopes to double the fund in the next four years.",
+                "a": "inspector",
+                "c": "creditor",
+                "b": "investor",
+                "d": "director",
+                "answer": "d"
+              },
+              {
+                "quiz": "The story is about the … around the Green Climate Fund.",
+                "a": "situation",
+                "c": "option",
+                "b": "position",
+                "d": "station",
+                "answer": "a"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tTyphoon in Philippines \n\tOn Tuesday, Typhoon Kammuri came to Philippines. It flooded streets and damaged many houses and power lines.\n\tOfficials closed the international airport in the capital city of Manila for 48 hours. They closed schools and evacuated hundreds of thousands of people from their homes.\n\tThe winds were very strong and reached the speed of more than 130 miles per hour, which destroyed roofs of homes and scattered debris.\n\tCurrently, the Southeast Asian Games are taking place in the Philippines. The organizers canceled or postponed several outdoor events because of the bad weather.   ",
+            "questions": [
+              {
+                "quiz": "A tropical … came to Philippines.",
+                "a": "winter",
+                "c": "weather",
+                "b": "cyclone",
+                "d": "summer",
+                "answer": "b"
+              },
+              {
+                "quiz": "Typhoon Kammuri … many houses and power lines.",
+                "a": "annoyed",
+                "c": "destroyed",
+                "b": "convoyed",
+                "d": "enjoyed",
+                "answer": "c"
+              },
+              {
+                "quiz": "The international airport was closed for … days.",
+                "a": "forty eight",
+                "c": "forty two",
+                "b": "four",
+                "d": "two",
+                "answer": "d"
+              },
+              {
+                "quiz": "… closed schools and evacuated people.",
+                "a": "Government",
+                "c": "Movement",
+                "b": "Parliament",
+                "d": "Statement",
+                "answer": "a"
+              },
+              {
+                "quiz": "The speed of the … wind was more than 130 miles per hour.",
+                "a": "graceful",
+                "c": "peaceful",
+                "b": "grateful",
+                "d": "powerful",
+                "answer": "d"
+              },
+              {
+                "quiz": "Currently, sport … are taking place in the Philippines.",
+                "a": "investigations",
+                "c": "examinations",
+                "b": "competitions",
+                "d": "organizations",
+                "answer": "b"
+              },
+              {
+                "quiz": "Because of the Typhoon several outdoor events were … off.",
+                "a": "called",
+                "c": "played",
+                "b": "named",
+                "d": "stayed",
+                "answer": "a"
+              },
+              {
+                "quiz": "The story is about Typhoon …",
+                "a": "afternoon",
+                "c": "aftermath",
+                "b": "afterword",
+                "d": "aftertaste",
+                "answer": "c"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tGerman Airlines Strike \n\tLufthansa (the largest airline company in Europe) has a lowcost airlines business called Eurowings, which has had to cancel more than 170 flights because of a 3day flight attendant strike.\n\tThe flight attendants work for Germanwings, which runs German flights. Their union is fighting with Lufthansa about parttime work regulations, and the union told the workers to strike.\n\tThe canceled flights were going to happen from Monday through Wednesday of this week. Eurowings said that it didn’t understand the strike, and it wanted to givepeople normal flight schedules as soon as possible.   ",
+            "questions": [
+              {
+                "quiz": "Lufthansa is the largest airline … in Europe.",
+                "a": "declaration",
+                "c": "corporation",
+                "b": "construction",
+                "d": "delegation",
+                "answer": "c"
+              },
+              {
+                "quiz": "Eurowings is a German economical air …",
+                "a": "service",
+                "c": "work",
+                "b": "strike",
+                "d": "fight",
+                "answer": "a"
+              },
+              {
+                "quiz": "Eurowings airline had to cancel more than one hundred … flights.",
+                "a": "seventeen",
+                "c": "seventieth",
+                "b": "seventy",
+                "d": "seventeenth",
+                "answer": "b"
+              },
+              {
+                "quiz": "The flights were stopped because of a 3-day …",
+                "a": "conversation",
+                "c": "consultation",
+                "b": "consideration",
+                "d": "demonstration",
+                "answer": "d"
+              },
+              {
+                "quiz": "The … were the workers of Germanwings.",
+                "a": "strikers",
+                "c": "juniors",
+                "b": "fighters",
+                "d": "passengers",
+                "answer": "a"
+              },
+              {
+                "quiz": "Germanwings workers were fighting with … about part-time work regulations.",
+                "a": "Europe",
+                "c": "German",
+                "b": "Eurowings",
+                "d": "Lufthansa",
+                "answer": "d"
+              },
+              {
+                "quiz": "Eurowings airline wants to give people … flight schedules.",
+                "a": "false",
+                "c": "stable",
+                "b": "wrong",
+                "d": "rare",
+                "answer": "c"
+              },
+              {
+                "quiz": "The story is about airline workers’ …",
+                "a": "finance",
+                "c": "business",
+                "b": "protest",
+                "d": "schedule",
+                "answer": "b"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tAsthma from Traffic  \n\tAsthma is a medical condition where you can have difficulty breathing. It is lifelong and doctors cannot stop it.\n\tA study says that traffic pollution is connecting to 4 million new cases of asthma  in  children  every  year. Scientists studied this in 194 countries and 125 large cities.\n\tOther studies also said this, but this study’s author says that this study is comprehensive. It tells where the most polluted areas in the world are.\n\tSome people think that we need to make new law for pollution. We should also have cleaner transportation.  ",
+            "questions": [
+              {
+                "quiz": "Asthma is a …",
+                "a": "release",
+                "c": "traffic",
+                "b": "disease",
+                "d": "study",
+                "answer": "b"
+              },
+              {
+                "quiz": "It is impossible to … asthma completely.",
+                "a": "breath",
+                "c": "treat",
+                "b": "clean",
+                "d": "pollute",
+                "answer": "c"
+              },
+              {
+                "quiz": "One of the reasons of asthma is traffic …",
+                "a": "pollution",
+                "c": "position",
+                "b": "affection",
+                "d": "production",
+                "answer": "a"
+              },
+              {
+                "quiz": "Scientists studied the reasons of asthma in one hundred … countries.",
+                "a": "twenty four",
+                "c": "ninety four",
+                "b": "twenty five",
+                "d": "ninety five",
+                "answer": "c"
+              },
+              {
+                "quiz": "The … showed the most polluted areas in the world.",
+                "a": "pollution",
+                "c": "condition",
+                "b": "search",
+                "d": "research",
+                "answer": "d"
+              },
+              {
+                "quiz": "In order to decrease the cases of asthma it is necessary to make new … for pollution.",
+                "a": "cases",
+                "c": "areas",
+                "b": "rules",
+                "d": "places",
+                "answer": "b"
+              },
+              {
+                "quiz": "Some people think that it is important to use … transportation.",
+                "a": "non-stop",
+                "c": "non-use",
+                "b": "non-ruling",
+                "d": "non-polluting",
+                "answer": "d"
+              },
+              {
+                "quiz": "The story is about a long-term disease of the …",
+                "a": "lungs",
+                "c": "heart",
+                "b": "legs",
+                "d": "head",
+                "answer": "a"
+              }
+            ]
+          }
+        ]
       }
     }
   },
@@ -6774,6 +7341,7 @@
         "nameCategory": "Забони тоҷикӣ",
         "subNameCategory": "Қисми А",
         "imgCategory": "https://i.ibb.co/HK6kM2K/quiz-tjk.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Дар кадом калимаҳо садоноки ӣ овози таркиби калима аст?",
@@ -7581,6 +8149,7 @@
         "nameCategory": "Математика",
         "subNameCategory": "Қисми А",
         "imgCategory": "https://i.ibb.co/4t6F1q8/quiz-math.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Бақияи тақсими адади 242 526 ба адади 5‐ро ёбед.",
@@ -8388,6 +8957,7 @@
         "nameCategory": "География",
         "subNameCategory": "Қисми А",
         "imgCategory": "https://i.ibb.co/4dq9C4z/quiz-geo.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Масоҳати умумии пиряхҳои Тоҷикистон чанд километро ташкил медиҳанд?",
@@ -8995,6 +9565,7 @@
         "nameCategory": "Биология",
         "subNameCategory": "Қисми А",
         "imgCategory": "https://i.ibb.co/nLB4XPb/quiz-bio.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Кадоме аз ин моддаҳо ғайриорганикӣ мебошад?",
@@ -9562,6 +10133,7 @@
         "nameCategory": "Химия",
         "subNameCategory": "Қисми А",
         "imgCategory": "https://i.ibb.co/D1CQMBk/quiz-chem.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Дар молекулаи атсетилен чанд банди химиявӣ мавҷуд аст?",
@@ -10249,6 +10821,7 @@
         "nameCategory": "Таърих ва ҳуқуқ",
         "subNameCategory": "Қисми А",
         "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Ин сухан моҳияти кадом давраи таърихиро ифода менамоянд?\n“Ба аҳли Бухоро фармуд, то як ними хонаҳо ва молу замини худро ба онҳо бидиҳанд, то ки ба онҳо рӯзаю намоз ёд бидиҳанд ...”",
@@ -11056,6 +11629,7 @@
         "nameCategory": "Ҳуқуқ",
         "subNameCategory": "Қисми А",
         "imgCategory": "https://i.ibb.co/StbH34Q/3.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Давлати олмонӣ дар натиҷаи чӣ пайдо шудааст?",
@@ -11583,6 +12157,7 @@
         "nameCategory": "Адабиёт",
         "subNameCategory": "Қисми А",
         "imgCategory": "https://i.ibb.co/KK1Csx1/2.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Кадом хели адабиёт пештар пайдо шудааст?",
@@ -12102,6 +12677,7 @@
         "nameCategory": "Физика",
         "subNameCategory": "Қисми А",
         "imgCategory": "https://i.ibb.co/KXvVnm6/1.png",
+        "type": "random",
         "questions": [
           {
             "quiz": "Автобуси мусофиркаш аз шаҳри Душанбе ба шаҳри Ваҳдат дар t = 20 дақиқа бо суръати миёнаи 𝝑 = 15 м/с рафта расид. Масофаи миёнаи байни ин шаҳрҳо чӣ қадар аст?",
@@ -12622,6 +13198,566 @@
             "c": "криптон",
             "d": "сурб",
             "answer": "d"
+          }
+        ]
+      },
+      "ctg10": {
+        "nameCategory": "Забони англисӣ",
+        "subNameCategory": "Қисми А",
+        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "type": "variant",
+        "questions": [
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8.\n\tNew Recyclable Plastic\n\tPeople make plastic products by mixing the plastic with additives. The  additives make it difficult to recycle the plastic. To recycle plastic things, people grind them up first, but this new material is not easy to use again. \n\tA laboratory in California made a new type of plastic to deal with this  problem. When scientists put the new plastic in a high‐acid solution, the plastic  and the additives break apart. People can then easily reuse the plastic. \n\tThe scientists hope that this new plastic will help the planet and that there  will be less plastic.  ",
+            "questions": [
+              {
+                "quiz": "The makers of plastic mix the plastic with …",
+                "a": "carbonic acid",
+                "c": "extra ingredient",
+                "b": "toxic substance",
+                "d": "recyclable thing",
+                "answer": "b"
+              },
+              {
+                "quiz": "Recycling plastic with additives is very … process.",
+                "a": "automatic",
+                "c": "problematic",
+                "b": "symptomatic",
+                "d": "systematic",
+                "answer": "c"
+              },
+              {
+                "quiz": "To recycle plastic things, people … them up first.",
+                "a": "pick",
+                "c": "start",
+                "b": "check",
+                "d": "chop",
+                "answer": "d"
+              },
+              {
+                "quiz": "… from recycling plastic is not easy to use again.",
+                "a": "Material",
+                "c": "Plastic",
+                "b": "Additive",
+                "d": "Acid",
+                "answer": "a"
+              },
+              {
+                "quiz": "American scientists change the chemical composition of the plastic to … it.",
+                "a": "produce",
+                "c": "invent",
+                "b": "break",
+                "d": "reuse",
+                "answer": "d"
+              },
+              {
+                "quiz": "The … hope that the new plastic will help the planet.",
+                "a": "makers",
+                "c": "producers",
+                "b": "experts",
+                "d": "laboratorians",
+                "answer": "b"
+              },
+              {
+                "quiz": "Reusing plastic products will stop plastic …",
+                "a": "pollution",
+                "c": "protection",
+                "b": "solution",
+                "d": "production",
+                "answer": "a"
+              },
+              {
+                "quiz": "The story is about a …",
+                "a": "bad production",
+                "c": "new protection",
+                "b": "useful invention",
+                "d": "plastic pollution",
+                "answer": "c"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tBillionaire Helps Students  \n\tA billionaire investor gave almost 400 graduating college seniors a gift to pay off their student loans. He gave this gift during his 2019 speech at the college.\n\tHis news shocked the crowd. One graduate thought that he was lying. The college president said that he had never before seen a gift like this.\n\tA representative said that the investor will give $40 million to help pay off the student loans. Each student has a loan of about $48,000.\n\tFor  most  colleges  and  universities  across the  USA,  analysts  think  that student loan debt was about 41.5 trillion last year.  ",
+            "questions": [
+              {
+                "quiz": "An … billionaire helped students.",
+                "a": "American",
+                "c": "Indian",
+                "b": "Arabian",
+                "d": "Italian",
+                "answer": "a"
+              },
+              {
+                "quiz": "During the speech at the college the investor … to pay the student loans.",
+                "a": "deceived",
+                "c": "insisted",
+                "b": "refused",
+                "d": "promised",
+                "answer": "d"
+              },
+              {
+                "quiz": "The billionaire’s speech shocked …",
+                "a": "someone",
+                "c": "anyone",
+                "b": "everyone",
+                "d": "no one",
+                "answer": "b"
+              },
+              {
+                "quiz": "Hearing the news, one of the students remained …",
+                "a": "critical",
+                "c": "political",
+                "b": "practical",
+                "d": "skeptical",
+                "answer": "d"
+              },
+              {
+                "quiz": "The college president had never seen such …",
+                "a": "operations",
+                "c": "donations",
+                "b": "nations",
+                "d": "occupations",
+                "answer": "c"
+              },
+              {
+                "quiz": "The investor is going to give … million dollars to help the students.",
+                "a": "forty",
+                "c": "fourth",
+                "b": "four",
+                "d": "fourteen",
+                "answer": "a"
+              },
+              {
+                "quiz": "… think that student loan debt was about 41.5 trillion last year.",
+                "a": "Students",
+                "c": "Experts",
+                "b": "Crowds",
+                "d": "Investors",
+                "answer": "c"
+              },
+              {
+                "quiz": "The story is about a kind of …",
+                "a": "show",
+                "c": "mistrust",
+                "b": "charity",
+                "d": "harmony",
+                "answer": "b"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tElephants in Botswana\n\tBotswana is home to 130,000 elephants, which is the most of any country in Africa. In 2014, Botswana banned the elephants hunting to help their population grow.\n\tLast Wednesday, people lifted the ban on elephant hunting, and now licensed hunters can hunt elephants again. The country plans to give out up to 400 elephant hunting licenses every 12 months.\n\tBotswana explained why it lifted the ban. This was because there were more and more conflicts between people and elephants recently. Botswana said that it must protect its elephants and its people.  ",
+            "questions": [
+              {
+                "quiz": "Botswana is a … to 130,000 elephants.",
+                "a": "license",
+                "c": "conflict",
+                "b": "hunter",
+                "d": "habitat",
+                "answer": "d"
+              },
+              {
+                "quiz": "In two thousand …, Botswana banned the elephants hunting.",
+                "a": "and four",
+                "c": "fourty",
+                "b": "fourteen",
+                "d": "four",
+                "answer": "b"
+              },
+              {
+                "quiz": "Botswana banned the elephants hunting to … their population.",
+                "a": "find",
+                "c": "save",
+                "b": "steal",
+                "d": "lift",
+                "answer": "c"
+              },
+              {
+                "quiz": "Hunters with a special … can hunt elephants after lifting the ban.",
+                "a": "contention",
+                "c": "competition",
+                "b": "permission",
+                "d": "combination",
+                "answer": "b"
+              },
+              {
+                "quiz": "Botswana plans to give out up to 400 hunting licenses a …",
+                "a": "year",
+                "c": "month",
+                "b": "week",
+                "d": "decade",
+                "answer": "a"
+              },
+              {
+                "quiz": "Because of the … between people and elephants Botswana lifted the ban.",
+                "a": "tax",
+                "c": "war",
+                "b": "win",
+                "d": "job",
+                "answer": "c"
+              },
+              {
+                "quiz": "The … of Botswana is to protect elephants and people.",
+                "a": "defeat",
+                "c": "loss",
+                "b": "luck",
+                "d": "idea",
+                "answer": "d"
+              },
+              {
+                "quiz": "The story is about elephants’ … in Botswana.",
+                "a": "life",
+                "c": "slavery",
+                "b": "labor",
+                "d": "conflict",
+                "answer": "a"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8.\n\tChicago Teachers Protest \n\tThere was a protest of teachers in Chicago that started one week ago.Teachers wanted smaller class sizes, more staff, and better money for their work.\n\tThey had discussions with schools, but it was difficult to find a solution.They did not agree on many things, and the main problem was money.\n\tThe Chicago Mayor was very unhappy about the situation. He says that the city does not have enough money for all that the teachers want. The teachers think that the city has enough money, and they say that the problem is that the city spends it on other things.  ",
+            "questions": [
+              {
+                "quiz": "The teachers’ … happened in Chicago.",
+                "a": "strike",
+                "c": "talk",
+                "b": "hike",
+                "d": "union",
+                "answer": "a"
+              },
+              {
+                "quiz": "The protest started seven … ago.",
+                "a": "months",
+                "c": "weeks",
+                "b": "hours",
+                "d": "days",
+                "answer": "d"
+              },
+              {
+                "quiz": "One of the teachers’ requirements was to raise a …",
+                "a": "work",
+                "c": "school",
+                "b": "salary",
+                "d": "problem",
+                "answer": "b"
+              },
+              {
+                "quiz": "Schools … to support teachers.",
+                "a": "thought",
+                "c": "needed",
+                "b": "wanted",
+                "d": "refused",
+                "answer": "d"
+              },
+              {
+                "quiz": "The Chicago Mayor was very … about the situation.",
+                "a": "busy",
+                "c": "angry",
+                "b": "envy",
+                "d": "empty",
+                "answer": "c"
+              },
+              {
+                "quiz": "The Mayor says that the city doesn’t have … for teachers’ needs.",
+                "a": "budget",
+                "c": "basket",
+                "b": "gadget",
+                "d": "ticket",
+                "answer": "a"
+              },
+              {
+                "quiz": "The … were sure that the city spent budget money on other things.",
+                "a": "mayors",
+                "c": "strikers",
+                "b": "pupils",
+                "d": "workers",
+                "answer": "c"
+              },
+              {
+                "quiz": "The story is about teachers’ …",
+                "a": "differentiation",
+                "c": "hospitalization",
+                "b": "demonstration",
+                "d": "experimentation",
+                "answer": "b"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tClimate Fund \n\t27 countries agreed to pay $9.8 billion to the Green Climate Fund. These countries want to help the world’s poorest countries fight climate change.\n\tHowever, the US and Australia do not want to help. In the past, the US agreed to pay $3 billion to the fund, but when Donald Trump became president, he lowered the help to $1 billion.\n\tThe  Climate  Action  Network  is  not very  happy  with  the  US  and Australian  way  of thinking.  They  separate themselves  from  the  rest  of  the world. The boss of the fund hopes to get some more money and to double the fund in the next four years.   ",
+            "questions": [
+              {
+                "quiz": "… countries agreed to pay money to the Green Climate Fund.",
+                "a": "Two or seven",
+                "c": "Twenty and seven",
+                "b": "Two to seven",
+                "d": "Twenty‐seven",
+                "answer": "d"
+              },
+              {
+                "quiz": "A lot of countries … on climate change.",
+                "a": "get results",
+                "c": "keep silent",
+                "b": "take action",
+                "d": "stay away",
+                "answer": "b"
+              },
+              {
+                "quiz": "Before Donald Trump the US wanted to … $3 billion to the fund.",
+                "a": "get",
+                "c": "give",
+                "b": "take",
+                "d": "pick",
+                "answer": "c"
+              },
+              {
+                "quiz": "Donald Trump … the sum to $1 billion.",
+                "a": "increased",
+                "c": "unpleased",
+                "b": "decreased",
+                "d": "released",
+                "answer": "b"
+              },
+              {
+                "quiz": "The Climate Action Network doesn’t like American and Australian …",
+                "a": "ideology",
+                "c": "ecology",
+                "b": "sociology",
+                "d": "biology",
+                "answer": "a"
+              },
+              {
+                "quiz": "The US and Australia do not … the Green Climate Fund.",
+                "a": "export",
+                "c": "support",
+                "b": "import",
+                "d": "report",
+                "answer": "c"
+              },
+              {
+                "quiz": "The … of the fund hopes to double the fund in the next four years.",
+                "a": "inspector",
+                "c": "creditor",
+                "b": "investor",
+                "d": "director",
+                "answer": "d"
+              },
+              {
+                "quiz": "The story is about the … around the Green Climate Fund.",
+                "a": "situation",
+                "c": "option",
+                "b": "position",
+                "d": "station",
+                "answer": "a"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tTyphoon in Philippines \n\tOn Tuesday, Typhoon Kammuri came to Philippines. It flooded streets and damaged many houses and power lines.\n\tOfficials closed the international airport in the capital city of Manila for 48 hours. They closed schools and evacuated hundreds of thousands of people from their homes.\n\tThe winds were very strong and reached the speed of more than 130 miles per hour, which destroyed roofs of homes and scattered debris.\n\tCurrently, the Southeast Asian Games are taking place in the Philippines. The organizers canceled or postponed several outdoor events because of the bad weather.   ",
+            "questions": [
+              {
+                "quiz": "A tropical … came to Philippines.",
+                "a": "winter",
+                "c": "weather",
+                "b": "cyclone",
+                "d": "summer",
+                "answer": "b"
+              },
+              {
+                "quiz": "Typhoon Kammuri … many houses and power lines.",
+                "a": "annoyed",
+                "c": "destroyed",
+                "b": "convoyed",
+                "d": "enjoyed",
+                "answer": "c"
+              },
+              {
+                "quiz": "The international airport was closed for … days.",
+                "a": "forty eight",
+                "c": "forty two",
+                "b": "four",
+                "d": "two",
+                "answer": "d"
+              },
+              {
+                "quiz": "… closed schools and evacuated people.",
+                "a": "Government",
+                "c": "Movement",
+                "b": "Parliament",
+                "d": "Statement",
+                "answer": "a"
+              },
+              {
+                "quiz": "The speed of the … wind was more than 130 miles per hour.",
+                "a": "graceful",
+                "c": "peaceful",
+                "b": "grateful",
+                "d": "powerful",
+                "answer": "d"
+              },
+              {
+                "quiz": "Currently, sport … are taking place in the Philippines.",
+                "a": "investigations",
+                "c": "examinations",
+                "b": "competitions",
+                "d": "organizations",
+                "answer": "b"
+              },
+              {
+                "quiz": "Because of the Typhoon several outdoor events were … off.",
+                "a": "called",
+                "c": "played",
+                "b": "named",
+                "d": "stayed",
+                "answer": "a"
+              },
+              {
+                "quiz": "The story is about Typhoon …",
+                "a": "afternoon",
+                "c": "aftermath",
+                "b": "afterword",
+                "d": "aftertaste",
+                "answer": "c"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tGerman Airlines Strike \n\tLufthansa (the largest airline company in Europe) has a lowcost airlines business called Eurowings, which has had to cancel more than 170 flights because of a 3day flight attendant strike.\n\tThe flight attendants work for Germanwings, which runs German flights. Their union is fighting with Lufthansa about parttime work regulations, and the union told the workers to strike.\n\tThe canceled flights were going to happen from Monday through Wednesday of this week. Eurowings said that it didn’t understand the strike, and it wanted to givepeople normal flight schedules as soon as possible.   ",
+            "questions": [
+              {
+                "quiz": "Lufthansa is the largest airline … in Europe.",
+                "a": "declaration",
+                "c": "corporation",
+                "b": "construction",
+                "d": "delegation",
+                "answer": "c"
+              },
+              {
+                "quiz": "Eurowings is a German economical air …",
+                "a": "service",
+                "c": "work",
+                "b": "strike",
+                "d": "fight",
+                "answer": "a"
+              },
+              {
+                "quiz": "Eurowings airline had to cancel more than one hundred … flights.",
+                "a": "seventeen",
+                "c": "seventieth",
+                "b": "seventy",
+                "d": "seventeenth",
+                "answer": "b"
+              },
+              {
+                "quiz": "The flights were stopped because of a 3-day …",
+                "a": "conversation",
+                "c": "consultation",
+                "b": "consideration",
+                "d": "demonstration",
+                "answer": "d"
+              },
+              {
+                "quiz": "The … were the workers of Germanwings.",
+                "a": "strikers",
+                "c": "juniors",
+                "b": "fighters",
+                "d": "passengers",
+                "answer": "a"
+              },
+              {
+                "quiz": "Germanwings workers were fighting with … about part-time work regulations.",
+                "a": "Europe",
+                "c": "German",
+                "b": "Eurowings",
+                "d": "Lufthansa",
+                "answer": "d"
+              },
+              {
+                "quiz": "Eurowings airline wants to give people … flight schedules.",
+                "a": "false",
+                "c": "stable",
+                "b": "wrong",
+                "d": "rare",
+                "answer": "c"
+              },
+              {
+                "quiz": "The story is about airline workers’ …",
+                "a": "finance",
+                "c": "business",
+                "b": "protest",
+                "d": "schedule",
+                "answer": "b"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Read the text and choose the right answer 1‐8. \n\tAsthma from Traffic  \n\tAsthma is a medical condition where you can have difficulty breathing. It is lifelong and doctors cannot stop it.\n\tA study says that traffic pollution is connecting to 4 million new cases of asthma  in  children  every  year. Scientists studied this in 194 countries and 125 large cities.\n\tOther studies also said this, but this study’s author says that this study is comprehensive. It tells where the most polluted areas in the world are.\n\tSome people think that we need to make new law for pollution. We should also have cleaner transportation.  ",
+            "questions": [
+              {
+                "quiz": "Asthma is a …",
+                "a": "release",
+                "c": "traffic",
+                "b": "disease",
+                "d": "study",
+                "answer": "b"
+              },
+              {
+                "quiz": "It is impossible to … asthma completely.",
+                "a": "breath",
+                "c": "treat",
+                "b": "clean",
+                "d": "pollute",
+                "answer": "c"
+              },
+              {
+                "quiz": "One of the reasons of asthma is traffic …",
+                "a": "pollution",
+                "c": "position",
+                "b": "affection",
+                "d": "production",
+                "answer": "a"
+              },
+              {
+                "quiz": "Scientists studied the reasons of asthma in one hundred … countries.",
+                "a": "twenty four",
+                "c": "ninety four",
+                "b": "twenty five",
+                "d": "ninety five",
+                "answer": "c"
+              },
+              {
+                "quiz": "The … showed the most polluted areas in the world.",
+                "a": "pollution",
+                "c": "condition",
+                "b": "search",
+                "d": "research",
+                "answer": "d"
+              },
+              {
+                "quiz": "In order to decrease the cases of asthma it is necessary to make new … for pollution.",
+                "a": "cases",
+                "c": "areas",
+                "b": "rules",
+                "d": "places",
+                "answer": "b"
+              },
+              {
+                "quiz": "Some people think that it is important to use … transportation.",
+                "a": "non-stop",
+                "c": "non-use",
+                "b": "non-ruling",
+                "d": "non-polluting",
+                "answer": "d"
+              },
+              {
+                "quiz": "The story is about a long-term disease of the …",
+                "a": "lungs",
+                "c": "heart",
+                "b": "legs",
+                "d": "head",
+                "answer": "a"
+              }
+            ]
           }
         ]
       }
