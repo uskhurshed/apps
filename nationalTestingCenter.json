@@ -5118,7 +5118,7 @@
       "ctg10": {
         "nameCategory": "Английский язык",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "imgCategory": "https://i.ibb.co/gtXg8Yx/4.png",
         "type": "variant",
         "questions": [
           {
@@ -5675,570 +5675,566 @@
           }
         ]
       },
-      "ctg11": 
-
-{
-  "nameCategory": "Немецкий язык",
-  "subNameCategory": "Компонент А",
-  "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
-  "type": "variant",
-  "questions": [
-    {
-      "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tHeuernte\n\tDas tadschikische Volk hat eine uralte Tradition und eine sehr alte Geschichte.\n\tEines der ältesten Feste des tadschikischen Volkes ist die Heuernte. Dieses Fest beginnt in unserer Republik, in verschiedenen Gebieten, zu unterschiedlichen Zeiten. Im Pamir beginnt es gewöhnlich im Juli, im zentralen Teil der Republik Ende Mai, Anfang Juni und in Chudschand Anfang Juni.\n\tDie Heuernte dauert überall fast einen Monat. Jede Familie organisiert ein HeuHascharfest. Zum Hascharfest werden alle Männer des Dorfes eingeladen. Sie werden der Familie bei der Heuernte helfen. Wenn die Heumahd bei einer Familie abgeschlossen ist, beginnt sie dann der Reihe nach bei anderen Familien. Auf solche Weise wird jeden Tag innerhalb von 8 bis 10 Stunden mit Pausen bei jeder Familie gearbeitet.\n\tNach der Beendigung der Heuernte im Dorf wird am anderen Tag ein Fest veranstaltet. Das Festmahl wird am Nachmittag gegeben. So wird dieses schöne Fest gefeiert.  (Schosedow N. Deutsch 11) ",
-      "questions": [
-        {
-          "quiz": "Die Heuernte beginnt in allen Teilen der Republik … .",
-          "a": "zur selben Zeit",
-          "c": "im gleichen Monat",
-          "b": "im selben Augenblick",
-          "d": "nicht im gleichen Monat",
-          "answer": "d"
-        },
-        {
-          "quiz": "Wann beginnt das Heuerntefest im Pamir und im Norden von Tadschikistan?",
-          "a": "im Frühling",
-          "c": "im Herbst",
-          "b": "im Sommer",
-          "d": "im Winter",
-          "answer": "b"
-        },
-        {
-          "quiz": "Die Heuernte dauert überall … .",
-          "a": "einen Monat",
-          "c": "fast einen Monat",
-          "b": "fast eine Stunde",
-          "d": "eine Woche",
-          "answer": "c"
-        },
-        {
-          "quiz": "Wer wird zum Heu-Hascharfest eingeladen?",
-          "a": "alle Mädchen des Dorfes",
-          "c": "alle Frauen des Dorfes",
-          "b": "alle Männer des Dorfes",
-          "d": "alle Kinder des Dorfes",
-          "answer": "b"
-        },
-        {
-          "quiz": "Die Männer werden der Familie … helfen.",
-          "a": "bei der Heuernte",
-          "c": "bei der Kartoffelernte",
-          "b": "beim Schreiben",
-          "d": "beim Schachspielen",
-          "answer": "a"
-        },
-        {
-          "quiz": "Wie veranstalten die Familien die Heuernte?",
-          "a": "unorganisiert",
-          "c": "nacheinander",
-          "b": "durcheinander",
-          "d": "unordentlich",
-          "answer": "c"
-        },
-        {
-          "quiz": "Was wird am Nachmittag gegeben?",
-          "a": "ein Fußballspiel",
-          "c": "ein Spiel",
-          "b": "ein Theaterstück",
-          "d": "ein Festessen",
-          "answer": "d"
-        },
-        {
-          "quiz": "Worum geht es in diesem Text?",
-          "a": "um die Heumahd",
-          "c": "um das Blumenfest",
-          "b": "um die Jahreszeiten",
-          "d": "um die Schulpausen",
-          "answer": "a"
-        }
-      ]
-    },
-    {
-      "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tDer alte Löwe\n\tEin alter Löwe war sein ganzes Leben lang grausam zu den anderen Tieren. Jetzt lag er kraftlos vor seiner Höhle und erwartete den Tod. Die Tiere bedauerten ihn nicht. Sie freuten sich sehr. Der Löwe hatte vielen Tieren Unrecht getan. Sie konnten das nicht vergessen. Der listige Fuchs beleidigte ihn mit bösen Reden, der Wolf sagte ihm grobe Schimpfworte, der Ochs stieß ihn mit den Hörnern, der Esel gab ihm einen Schlag mit seinem Fuß.\n\tDas edle Pferd stand dabei und tat nichts, obwohl der Löwe seine Mutter zerrissen hatte. “Willst du ihm nicht”, fragte der Esel, “eins hinter die Ohren geben!”\n\tDas Pferd antwortete ernst: “Ich halte es für gemein, mich an einem Feind zu rächen, der mir nicht mehr schaden kann”.  ",
-      "questions": [
-        {
-          "quiz": "Wie lag der Löwe jetzt?",
-          "a": "jung und kraftvoll",
-          "c": "klein und kräftig",
-          "b": "alt und stark",
-          "d": "alt und schwach",
-          "answer": "d"
-        },
-        {
-          "quiz": "Wie war der Löwe früher?",
-          "a": "herzensgut",
-          "c": "nichts",
-          "b": "unbarmherzig",
-          "d": "herzlich",
-          "answer": "b"
-        },
-        {
-          "quiz": "Die Tiere freuten sich … .",
-          "a": "riesig",
-          "c": "nicht",
-          "b": "gar nicht",
-          "d": "überhaupt nicht",
-          "answer": "a"
-        },
-        {
-          "quiz": "Der listige Fuchs … ihn mit bösen Reden.",
-          "a": "motivierte",
-          "c": "kränkte",
-          "b": "unterstützte",
-          "d": "erweckte",
-          "answer": "c"
-        },
-        {
-          "quiz": "Was sagte der Wolf dem Löwen?",
-          "a": "grobe Schimpfworte",
-          "c": "ein Geheimnis",
-          "b": "schöne Worte",
-          "d": "gar nichts",
-          "answer": "a"
-        },
-        {
-          "quiz": "Womit gab der Esel dem Löwen einen Schlag?",
-          "a": "mit seinem Schwanz",
-          "c": "mit seinem Fuß",
-          "b": "mit seinem Kopf",
-          "d": "mit seiner Hand",
-          "answer": "c"
-        },
-        {
-          "quiz": "Das edle Pferd stand dabei und … .",
-          "a": "tat dem Löwen weh",
-          "c": "beschimpfte den Löwen",
-          "b": "tat nichts",
-          "d": "schlug den Löwen",
-          "answer": "b"
-        },
-        {
-          "quiz": "Worum geht es in diesem Text?",
-          "a": "um die Schimpfworte des Esels",
-          "c": "um die Ohren eines Pferdes",
-          "b": "um den Schlag des Wolfes",
-          "d": "um das Unrecht eines alten Löwen",
-          "answer": "d"
-        }
-      ]
-    },
-    {
-      "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tDie drei Söhne\n\tDrei Frauen kamen an einen Brunnen, um Wasser zu schöpfen. Sie sprachen von ihren drei Söhnen: „Ihr solltet meinen Sohn singen hören“, sagte die erste. Die zweite sagte: „Mein Sohn ist stark und schnell.“ Die dritte schwieg. Da fragten die anderen: „Und dein Sohn?“ „Was soll ich erzählen“, sagte sie, „mein Sohn ist ein junger Bursche wie andere auch.“ Nun machten sich die drei Frauen auf den Heimweg.\n\tDa kamen den drei Frauen deren drei Söhne entgegen. Der erste sang so schön wie eine Nachtigall, der zweite schleuderte Steine in die Luft und fing sie wieder. Der dritte aber lief zu seiner Mutter und nahm ihr den Eimer ab.\n\tEin alter Mann neben dem Brunnen hatte alles mit angesehen. Eine der drei Frauen fragte ihn: „Nun, was sagst du zu unseren drei Söhnen?“ „Drei Söhne?“ fragte der Alte, „Ich sehe nun einen Sohn.“ ",
-      "questions": [
-        {
-          "quiz": "Wie viele Frauen kamen an den Brunnen?",
-          "a": "3",
-          "c": "2",
-          "b": "1",
-          "d": "9",
-          "answer": "a"
-        },
-        {
-          "quiz": "Warum kamen die Frauen an den Brunnen?",
-          "a": "Sie wollten spazieren gehen.",
-          "c": "Sie wollten die Steine ins Wasser werfen.",
-          "b": "Sie wollten schwimmen.",
-          "d": "Sie wollten Wasser schöpfen.",
-          "answer": "d"
-        },
-        {
-          "quiz": "Wovon sprachen die Frauen?",
-          "a": "von ihren Töchtern",
-          "c": "von ihren Enkeln",
-          "b": "von ihren Söhnen",
-          "d": "von ihren Müttern",
-          "answer": "b"
-        },
-        {
-          "quiz": "Die dritte sagte: „Mein Sohn ist ein … wie andere auch.“",
-          "a": "Rentner",
-          "c": "Pensionär",
-          "b": "Greis",
-          "d": "Junger",
-          "answer": "d"
-        },
-        {
-          "quiz": "Wo begegneten die Frauen ihren Söhnen?",
-          "a": "in ihren Höfen",
-          "c": "auf dem Weg nach Hause",
-          "b": "am Ufer des Flusses",
-          "d": "in ihren Gärten",
-          "answer": "c"
-        },
-        {
-          "quiz": "Der erste sang so schön wie … .",
-          "a": "ein Singvogel",
-          "c": "eine Libelle",
-          "b": "ein Wasserfall",
-          "d": "eine Katze",
-          "answer": "a"
-        },
-        {
-          "quiz": "„Was … du zu unseren drei Söhnen?“",
-          "a": "rufen",
-          "c": "sagst",
-          "b": "singst",
-          "d": "fragst",
-          "answer": "c"
-        },
-        {
-          "quiz": "Worum geht es in diesem Text?",
-          "a": "um die Vögel in der Natur",
-          "c": "um eine kinderreiche Familie",
-          "b": "um das Verhalten von drei Jungen",
-          "d": "um einen Mann und seinen Sohn",
-          "answer": "b"
-        }
-      ]
-    },
-    {
-      "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tHeuernte\n\tDie Heuernte beginnt in tadschikischen Dörfern im Juni und dauert fast einen Monat. Sie ist ein Hascharfest. Jede Familie organisiert das sogenannte Heu-Hascharfest. Zu so einem Fest werden die Männer aus anderen Familien eingeladen, damit sie bei der Ernte helfen. Wenn die Leute bei einer Familie die Heumahd abgeschlossen haben, dann beginnt der Reihe nach jede andere Familie mit der Heumahd. Auf diese Weise wird innerhalb von 8 bis 10 Stunden bei jeder Familie das Heu gemäht.\n\tGewöhnlich wird auf den Wiesen am Nachmittag ein Festmahl veranstaltet. Manche schlachten ein Schaf oder eine Ziege und bereiten einen Braten zu. Bei anderen Familien besteht das Festmahl aus dem traditionellen tadschikischen Palaw. Die Heumahd und die Getreideernte werden schnell und organisiert durchgeführt.   ",
-      "questions": [
-        {
-          "quiz": "Wann beginnt das Heuerntefest in tadschikischen Dörfern?",
-          "a": "im Herbst",
-          "c": "im Frühling",
-          "b": "im Sommer",
-          "d": "im Winter",
-          "answer": "b"
-        },
-        {
-          "quiz": "Die Heuernte dauert… .",
-          "a": "fast eine Stunde",
-          "c": "fast einen Monat",
-          "b": "einen Monat",
-          "d": "eine Woche",
-          "answer": "c"
-        },
-        {
-          "quiz": "Die Männer helfen … .",
-          "a": "bei der Ernte",
-          "c": "beim Schreiben",
-          "b": "bei der Jagd",
-          "d": "beim Laufen",
-          "answer": "a"
-        },
-        {
-          "quiz": "Wie wird die Heuernte durchgeführt?",
-          "a": "langsam",
-          "c": "nacheinander",
-          "b": "durcheinander",
-          "d": "unordentlich",
-          "answer": "c"
-        },
-        {
-          "quiz": "Wie lange wird das Heu bei jeder Familie gemäht?",
-          "a": "ein paar Monate",
-          "c": "24 Stunden",
-          "b": "8 bis 10 Tagen",
-          "d": "8 bis 10 Stunden",
-          "answer": "d"
-        },
-        {
-          "quiz": "Was wird am Nachmittag veranstaltet?",
-          "a": "ein Theaterstück",
-          "c": "ein Fußballspiel",
-          "b": "ein festliches Essen",
-          "d": "ein festliches Spiel",
-          "answer": "b"
-        },
-        {
-          "quiz": "Warum organisiert jede Familie das Heu-Hascharfest?",
-          "a": "Weil die Mitglieder der Familie faul sind.",
-          "c": "Weil die Familie sich darum nicht kümmert.",
-          "b": "Weil die Mitglieder der Familie die Heumahd hassen.",
-          "d": "Weil dadurch die Arbeit schnell beendet wird.",
-          "answer": "d"
-        },
-        {
-          "quiz": "Worum geht es in diesem Text?",
-          "a": "um die Heumahd",
-          "c": "um die Einkäufe",
-          "b": "um ein Schaf",
-          "d": "um eine Ziege",
-          "answer": "a"
-        }
-      ]
-    },
-    {
-      "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tCarla Sudhoff\n\tMein Name ist Carla Sudhoff. Ich bin Hotelfachfrau und arbeite an der Rezeption eines großen Hotels in Berlin. Ich organisiere die Zimmerreservierungen, empfange die Gäste und kassiere das Geld für die Rechnungen. Wir haben viel internationales Publikum. Oft kennen die Gäste die Stadt nicht und ich muss ihnen den Weg erklären oder ihnen Tipps für Restaurants, Konzerte oder Theater geben. Ich habe Schichtdienst und arbeite am Vormittag oder am Nachmittag. So muss ich oft früh aufstehen oder komme erst sehr spät nach Hause und ich muss oft auch am Wochenende arbeiten. So habe ich wenig Freizeit. Zum Glück machen mein Mann und meine Tochter den Haushalt alleine. ",
-      "questions": [
-        {
-          "quiz": "Was ist Frau Sudhoff von Beruf?",
-          "a": "Autoschlosserin",
-          "c": "Lackiererin",
-          "b": "Hotelfachfrau",
-          "d": "Ingenieurin",
-          "answer": "b"
-        },
-        {
-          "quiz": "Frau Sudhoff … die Gäste … .",
-          "a": "nimmt … in Empfang",
-          "c": "gibt … Rat",
-          "b": "nimmt … Abschied",
-          "d": "gibt … Tipp",
-          "answer": "a"
-        },
-        {
-          "quiz": "Oft kennen … die Stadt nicht.",
-          "a": "Frau Sudhoff",
-          "c": "die Besucher",
-          "b": "Frau Sudhoffs Mann",
-          "d": "die Töchter",
-          "answer": "c"
-        },
-        {
-          "quiz": "Frau Sudhoff muss … den Weg erklären.",
-          "a": "ihrer Tochter",
-          "c": "der Hotelfachfrau",
-          "b": "ihrem Mann",
-          "d": "den Gästen",
-          "answer": "d"
-        },
-        {
-          "quiz": "Frau Sudhoff muss oft auch am Wochenende … .",
-          "a": "geht spazieren",
-          "c": "lesen",
-          "b": "geht einkaufen",
-          "d": "arbeiten",
-          "answer": "d"
-        },
-        {
-          "quiz": "Wer hat wenig Freizeit?",
-          "a": "die Gäste",
-          "c": "Frau Sudhoffs Tochter",
-          "b": "Frau Sudhoff",
-          "d": "Frau Sudhoffs Mann",
-          "answer": "b"
-        },
-        {
-          "quiz": "… machen Frau Sudhoffs Mann und ihre Tochter den Haushalt alleine.",
-          "a": "Glücklicherweise",
-          "c": "Unerfreulicherweise",
-          "b": "Bedauerlicherweise",
-          "d": "Unglücklicherweise",
-          "answer": "a"
-        },
-        {
-          "quiz": "Worum geht es in diesem Text?",
-          "a": "um eine Stadt",
-          "c": "um die Arbeit von Frau Sudhoff",
-          "b": "um einen Mann",
-          "d": "um den Haushalt der Gäste",
-          "answer": "c"
-        }
-      ]
-    },
-    {
-      "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tMein Traumberuf\n\tIch heiße Max. Ich arbeite seit drei Jahren in meinem Beruf. Ich glaube, das ist mein Traumberuf. Ich brauche keinen Computer. Ich brauche nur mein Smartphone und mein Fahrrad. Meistens arbeite ich am Montag bis Freitag von 8 Uhr bis 13.30 Uhr. Aber manchmal arbeite ich auch am Samstag. Ich mache viel Sport bei der Arbeit.\n\tIch treffe viele Menschen, aber immer nur kurz. Ich arbeite allein. Ich spreche nicht viel, es ist ruhig. Ich hole Briefe oder Pakete in den Büros ab. Dann bringe ich die Briefe oder Pakete zu anderen Büros. Ich transportiere alles auf meinem Rücken. Ich fahre nur in der Stadt. Ich fahre mit meinem Fahrrad. In der Stadt ist man mit dem Fahrrad sehr schnell. Autos stehen da oft im Stau. Ich muss schnell sein, denn die Leute haben keine Zeit. Mein Fahrrad ist sehr wichtig für meinen Beruf.   ",
-      "questions": [
-        {
-          "quiz": "Seit wann arbeitet Max in seinem Beruf?",
-          "a": "seit 3 Jahren",
-          "c": "seit 30 Jahren",
-          "b": "seit 13 Jahren",
-          "d": "seit 8 Jahren",
-          "answer": "a"
-        },
-        {
-          "quiz": "Max braucht keinen … .",
-          "a": "Kamera",
-          "c": "Smartphone",
-          "b": "Fahrrad",
-          "d": "Computer",
-          "answer": "d"
-        },
-        {
-          "quiz": "… arbeitet Max Montag bis Freitag von 8 Uhr bis 13.30 Uhr.",
-          "a": "Ausnahmeweise",
-          "c": "Ab und zu",
-          "b": "Gewöhnlich",
-          "d": "Ab und an",
-          "answer": "b"
-        },
-        {
-          "quiz": "Aber … arbeitet Max auch am Samstag.",
-          "a": "ständig",
-          "c": "andauernd",
-          "b": "immer",
-          "d": "ab und zu",
-          "answer": "d"
-        },
-        {
-          "quiz": "Max macht viel Sport … .",
-          "a": "beim Essen",
-          "c": "bei der Arbeit",
-          "b": "in der Turnhalle",
-          "d": "beim Kochen",
-          "answer": "c"
-        },
-        {
-          "quiz": "Wie fährt Max?",
-          "a": "mit seinem Fahrrad",
-          "c": "mit dem Bus",
-          "b": "mit seinem Motorrad",
-          "d": "mit dem Auto",
-          "answer": "a"
-        },
-        {
-          "quiz": "Was ist Max von Beruf?",
-          "a": "Lehrer",
-          "c": "Fahrradkurier",
-          "b": "Designer",
-          "d": "Ingenieur",
-          "answer": "c"
-        },
-        {
-          "quiz": "Worum geht es in diesem Text?",
-          "a": "um die Freunde von Max",
-          "c": "um eine Sprache",
-          "b": "um den Traumberuf von Max",
-          "d": "um ein Motorrad",
-          "answer": "b"
-        }
-      ]
-    },
-    {
-      "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tDie Nachtigall\n\tEines Tages wollte der Hodscha frische Früchte essen, darum schlich er in einen fremden Garten. Dort kletterte er auf einen Baum und aß all die Früchte, die in seiner Reichweite waren. Etwas später kam der Besitzer des Gartens und fragte ihn böse: „Was machst du da oben?“ Der Hodscha versuchte sich heraus zu reden und antwortete süß: „Oh, mein Herr, ich bin nur eine Nachtigall und sitze hier oben und singe!“ Der Mann amüsierte sich darüber und sagte lachend: „Soso, du bist also eine Nachtigall? Dann lass mich mal ein Lied von dir hören!“ Der Hodscha machte komische Gesichtsausdrücke und gab merkwürdige Töne von sich. Der Besitzer brach in Lachen aus und sagte: „Mann, was für eine Art von Singen ist das? Ich habe noch nie zuvor eine Nachtigall so singen hören!“ Der Hodscha erwiderte: „Ja, eine unerfahrene Nachtigall singt nun mal so!“ ",
-      "questions": [
-        {
-          "quiz": "Wohin schlich der Hodscha?",
-          "a": "in einen fremden Garten",
-          "c": "in seinen Hof",
-          "b": "in eine fremde Wohnung",
-          "d": "in ein Zimmer",
-          "answer": "a"
-        },
-        {
-          "quiz": "Was aß der Hodscha?",
-          "a": "die Kräuter",
-          "c": "das Obst",
-          "b": "das Gemüse",
-          "d": "die Suppe",
-          "answer": "c"
-        },
-        {
-          "quiz": "Wer kam später in den Garten?",
-          "a": "die Frau vom Hodscha",
-          "c": "eine Nachtigall",
-          "b": "der Besitzer des Gartens",
-          "d": "die Nachbarin",
-          "answer": "b"
-        },
-        {
-          "quiz": "Der Mann fragte den Hodscha: „Was … du da oben?“",
-          "a": "sagen",
-          "c": "gebe",
-          "b": "kann",
-          "d": "machst",
-          "answer": "d"
-        },
-        {
-          "quiz": "Der Mann sagte: „Soso, du bist also …?“",
-          "a": "ein Mensch",
-          "c": "ein Singvogel",
-          "b": "der Hodscha",
-          "d": "eine Fledermaus",
-          "answer": "c"
-        },
-        {
-          "quiz": "Der Hodscha machte … Gesichtsausdrücke.",
-          "a": "lustige",
-          "c": "ernste",
-          "b": "traurige",
-          "d": "ernsthafte",
-          "answer": "a"
-        },
-        {
-          "quiz": "Der Hodscha gab … Töne von sich.",
-          "a": "langweilige",
-          "c": "gewöhnliche",
-          "b": "normale",
-          "d": "seltsame",
-          "answer": "d"
-        },
-        {
-          "quiz": "Worum geht es in diesem Text?",
-          "a": "um die schönen Mädchen",
-          "c": "um das Gemüse",
-          "b": "um Hodschas Gesang",
-          "d": "um einen Papagei",
-          "answer": "b"
-        }
-      ]
-    },
-    {
-      "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tIss, mein Pelz, iss! \n\tDer Hodscha ist zu einem Bankett eingeladen. Er trägt sein Alltagsgewand und wird von niemandem beachtet. Das macht ihn betroffen. Er eilt nach Hause, wirft seinen prächtigen Pelzmantel um und kehrt zu der Festgesellschaft zurück. Schon am Eingang wird er in Empfang genommen und zu einem Podest geführt, wo man ihm den besten Platz zuweist.\n\tAls das Essen serviert wird, tunkt der Hodscha den Kragen seines Mantels in die Schüssel und sagt: „Bitte, bediene Dich. Iss, mein Pelz, iss, mein Pelz!“\n\tDen erstaunten Gästen aber erklärt er: „Die Ehre gilt ja doch dem Pelz, soll der auch das Essen haben!“  ",
-      "questions": [
-        {
-          "quiz": "Der Hodscha ist … eingeladen.",
-          "a": "zu einem Festessen",
-          "c": "in ein Theater",
-          "b": "zu einer Sitzung",
-          "d": "in ein Museum",
-          "answer": "a"
-        },
-        {
-          "quiz": "Der Hodscha … sein Alltagsgewand … .",
-          "a": "kam … zurück",
-          "c": "hört … auf",
-          "b": "rief … an",
-          "d": "zieht … an",
-          "answer": "d"
-        },
-        {
-          "quiz": "Der Hodscha wird von … beachtet.",
-          "a": "den Kindern",
-          "c": "der Frauen",
-          "b": "keinem",
-          "d": "einen",
-          "answer": "b"
-        },
-        {
-          "quiz": "Der Hodscha kehrt zu … zurück.",
-          "a": "seinem Freund",
-          "c": "dieser Käuferin",
-          "b": "der Verkäuferin",
-          "d": "der Festgesellschaft",
-          "answer": "d"
-        },
-        {
-          "quiz": "Schon am Eingang wird … in Empfang genommen.",
-          "a": "die Frauen",
-          "c": "der Hodscha",
-          "b": "seines Freundes",
-          "d": "seines Bekannten",
-          "answer": "c"
-        },
-        {
-          "quiz": "Wohin tunkt der Hodscha den Kragen seines Mantels?",
-          "a": "in die Schüssel",
-          "c": "in die Teekanne",
-          "b": "in die Teeschüssel",
-          "d": "in das Schüsselchen",
-          "answer": "a"
-        },
-        {
-          "quiz": "„Die Ehre gilt ja doch dem Pelz, soll der auch … haben!“",
-          "a": "das Glück",
-          "c": "die Suppe",
-          "b": "das Geschenk",
-          "d": "die Blume",
-          "answer": "c"
-        },
-        {
-          "quiz": "Worum geht es in diesem Text?",
-          "a": "um einen Freund von dem Hodscha",
-          "c": "um die salzige Suppe",
-          "b": "um die Ehre des Menschen",
-          "d": "um zwei Schüssel",
-          "answer": "b"
-        }
-      ]
-    }
-  ]
-}
-
-
+      "ctg11": {
+        "nameCategory": "Немецкий язык",
+        "subNameCategory": "Компонент А",
+        "imgCategory": "https://i.ibb.co/YypbKgF/5.png",
+        "type": "variant",
+        "questions": [
+          {
+            "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tHeuernte\n\tDas tadschikische Volk hat eine uralte Tradition und eine sehr alte Geschichte.\n\tEines der ältesten Feste des tadschikischen Volkes ist die Heuernte. Dieses Fest beginnt in unserer Republik, in verschiedenen Gebieten, zu unterschiedlichen Zeiten. Im Pamir beginnt es gewöhnlich im Juli, im zentralen Teil der Republik Ende Mai, Anfang Juni und in Chudschand Anfang Juni.\n\tDie Heuernte dauert überall fast einen Monat. Jede Familie organisiert ein HeuHascharfest. Zum Hascharfest werden alle Männer des Dorfes eingeladen. Sie werden der Familie bei der Heuernte helfen. Wenn die Heumahd bei einer Familie abgeschlossen ist, beginnt sie dann der Reihe nach bei anderen Familien. Auf solche Weise wird jeden Tag innerhalb von 8 bis 10 Stunden mit Pausen bei jeder Familie gearbeitet.\n\tNach der Beendigung der Heuernte im Dorf wird am anderen Tag ein Fest veranstaltet. Das Festmahl wird am Nachmittag gegeben. So wird dieses schöne Fest gefeiert.  (Schosedow N. Deutsch 11) ",
+            "questions": [
+              {
+                "quiz": "Die Heuernte beginnt in allen Teilen der Republik … .",
+                "a": "zur selben Zeit",
+                "c": "im gleichen Monat",
+                "b": "im selben Augenblick",
+                "d": "nicht im gleichen Monat",
+                "answer": "d"
+              },
+              {
+                "quiz": "Wann beginnt das Heuerntefest im Pamir und im Norden von Tadschikistan?",
+                "a": "im Frühling",
+                "c": "im Herbst",
+                "b": "im Sommer",
+                "d": "im Winter",
+                "answer": "b"
+              },
+              {
+                "quiz": "Die Heuernte dauert überall … .",
+                "a": "einen Monat",
+                "c": "fast einen Monat",
+                "b": "fast eine Stunde",
+                "d": "eine Woche",
+                "answer": "c"
+              },
+              {
+                "quiz": "Wer wird zum Heu-Hascharfest eingeladen?",
+                "a": "alle Mädchen des Dorfes",
+                "c": "alle Frauen des Dorfes",
+                "b": "alle Männer des Dorfes",
+                "d": "alle Kinder des Dorfes",
+                "answer": "b"
+              },
+              {
+                "quiz": "Die Männer werden der Familie … helfen.",
+                "a": "bei der Heuernte",
+                "c": "bei der Kartoffelernte",
+                "b": "beim Schreiben",
+                "d": "beim Schachspielen",
+                "answer": "a"
+              },
+              {
+                "quiz": "Wie veranstalten die Familien die Heuernte?",
+                "a": "unorganisiert",
+                "c": "nacheinander",
+                "b": "durcheinander",
+                "d": "unordentlich",
+                "answer": "c"
+              },
+              {
+                "quiz": "Was wird am Nachmittag gegeben?",
+                "a": "ein Fußballspiel",
+                "c": "ein Spiel",
+                "b": "ein Theaterstück",
+                "d": "ein Festessen",
+                "answer": "d"
+              },
+              {
+                "quiz": "Worum geht es in diesem Text?",
+                "a": "um die Heumahd",
+                "c": "um das Blumenfest",
+                "b": "um die Jahreszeiten",
+                "d": "um die Schulpausen",
+                "answer": "a"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tDer alte Löwe\n\tEin alter Löwe war sein ganzes Leben lang grausam zu den anderen Tieren. Jetzt lag er kraftlos vor seiner Höhle und erwartete den Tod. Die Tiere bedauerten ihn nicht. Sie freuten sich sehr. Der Löwe hatte vielen Tieren Unrecht getan. Sie konnten das nicht vergessen. Der listige Fuchs beleidigte ihn mit bösen Reden, der Wolf sagte ihm grobe Schimpfworte, der Ochs stieß ihn mit den Hörnern, der Esel gab ihm einen Schlag mit seinem Fuß.\n\tDas edle Pferd stand dabei und tat nichts, obwohl der Löwe seine Mutter zerrissen hatte. “Willst du ihm nicht”, fragte der Esel, “eins hinter die Ohren geben!”\n\tDas Pferd antwortete ernst: “Ich halte es für gemein, mich an einem Feind zu rächen, der mir nicht mehr schaden kann”.  ",
+            "questions": [
+              {
+                "quiz": "Wie lag der Löwe jetzt?",
+                "a": "jung und kraftvoll",
+                "c": "klein und kräftig",
+                "b": "alt und stark",
+                "d": "alt und schwach",
+                "answer": "d"
+              },
+              {
+                "quiz": "Wie war der Löwe früher?",
+                "a": "herzensgut",
+                "c": "nichts",
+                "b": "unbarmherzig",
+                "d": "herzlich",
+                "answer": "b"
+              },
+              {
+                "quiz": "Die Tiere freuten sich … .",
+                "a": "riesig",
+                "c": "nicht",
+                "b": "gar nicht",
+                "d": "überhaupt nicht",
+                "answer": "a"
+              },
+              {
+                "quiz": "Der listige Fuchs … ihn mit bösen Reden.",
+                "a": "motivierte",
+                "c": "kränkte",
+                "b": "unterstützte",
+                "d": "erweckte",
+                "answer": "c"
+              },
+              {
+                "quiz": "Was sagte der Wolf dem Löwen?",
+                "a": "grobe Schimpfworte",
+                "c": "ein Geheimnis",
+                "b": "schöne Worte",
+                "d": "gar nichts",
+                "answer": "a"
+              },
+              {
+                "quiz": "Womit gab der Esel dem Löwen einen Schlag?",
+                "a": "mit seinem Schwanz",
+                "c": "mit seinem Fuß",
+                "b": "mit seinem Kopf",
+                "d": "mit seiner Hand",
+                "answer": "c"
+              },
+              {
+                "quiz": "Das edle Pferd stand dabei und … .",
+                "a": "tat dem Löwen weh",
+                "c": "beschimpfte den Löwen",
+                "b": "tat nichts",
+                "d": "schlug den Löwen",
+                "answer": "b"
+              },
+              {
+                "quiz": "Worum geht es in diesem Text?",
+                "a": "um die Schimpfworte des Esels",
+                "c": "um die Ohren eines Pferdes",
+                "b": "um den Schlag des Wolfes",
+                "d": "um das Unrecht eines alten Löwen",
+                "answer": "d"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tDie drei Söhne\n\tDrei Frauen kamen an einen Brunnen, um Wasser zu schöpfen. Sie sprachen von ihren drei Söhnen: „Ihr solltet meinen Sohn singen hören“, sagte die erste. Die zweite sagte: „Mein Sohn ist stark und schnell.“ Die dritte schwieg. Da fragten die anderen: „Und dein Sohn?“ „Was soll ich erzählen“, sagte sie, „mein Sohn ist ein junger Bursche wie andere auch.“ Nun machten sich die drei Frauen auf den Heimweg.\n\tDa kamen den drei Frauen deren drei Söhne entgegen. Der erste sang so schön wie eine Nachtigall, der zweite schleuderte Steine in die Luft und fing sie wieder. Der dritte aber lief zu seiner Mutter und nahm ihr den Eimer ab.\n\tEin alter Mann neben dem Brunnen hatte alles mit angesehen. Eine der drei Frauen fragte ihn: „Nun, was sagst du zu unseren drei Söhnen?“ „Drei Söhne?“ fragte der Alte, „Ich sehe nun einen Sohn.“ ",
+            "questions": [
+              {
+                "quiz": "Wie viele Frauen kamen an den Brunnen?",
+                "a": "3",
+                "c": "2",
+                "b": "1",
+                "d": "9",
+                "answer": "a"
+              },
+              {
+                "quiz": "Warum kamen die Frauen an den Brunnen?",
+                "a": "Sie wollten spazieren gehen.",
+                "c": "Sie wollten die Steine ins Wasser werfen.",
+                "b": "Sie wollten schwimmen.",
+                "d": "Sie wollten Wasser schöpfen.",
+                "answer": "d"
+              },
+              {
+                "quiz": "Wovon sprachen die Frauen?",
+                "a": "von ihren Töchtern",
+                "c": "von ihren Enkeln",
+                "b": "von ihren Söhnen",
+                "d": "von ihren Müttern",
+                "answer": "b"
+              },
+              {
+                "quiz": "Die dritte sagte: „Mein Sohn ist ein … wie andere auch.“",
+                "a": "Rentner",
+                "c": "Pensionär",
+                "b": "Greis",
+                "d": "Junger",
+                "answer": "d"
+              },
+              {
+                "quiz": "Wo begegneten die Frauen ihren Söhnen?",
+                "a": "in ihren Höfen",
+                "c": "auf dem Weg nach Hause",
+                "b": "am Ufer des Flusses",
+                "d": "in ihren Gärten",
+                "answer": "c"
+              },
+              {
+                "quiz": "Der erste sang so schön wie … .",
+                "a": "ein Singvogel",
+                "c": "eine Libelle",
+                "b": "ein Wasserfall",
+                "d": "eine Katze",
+                "answer": "a"
+              },
+              {
+                "quiz": "„Was … du zu unseren drei Söhnen?“",
+                "a": "rufen",
+                "c": "sagst",
+                "b": "singst",
+                "d": "fragst",
+                "answer": "c"
+              },
+              {
+                "quiz": "Worum geht es in diesem Text?",
+                "a": "um die Vögel in der Natur",
+                "c": "um eine kinderreiche Familie",
+                "b": "um das Verhalten von drei Jungen",
+                "d": "um einen Mann und seinen Sohn",
+                "answer": "b"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tHeuernte\n\tDie Heuernte beginnt in tadschikischen Dörfern im Juni und dauert fast einen Monat. Sie ist ein Hascharfest. Jede Familie organisiert das sogenannte Heu-Hascharfest. Zu so einem Fest werden die Männer aus anderen Familien eingeladen, damit sie bei der Ernte helfen. Wenn die Leute bei einer Familie die Heumahd abgeschlossen haben, dann beginnt der Reihe nach jede andere Familie mit der Heumahd. Auf diese Weise wird innerhalb von 8 bis 10 Stunden bei jeder Familie das Heu gemäht.\n\tGewöhnlich wird auf den Wiesen am Nachmittag ein Festmahl veranstaltet. Manche schlachten ein Schaf oder eine Ziege und bereiten einen Braten zu. Bei anderen Familien besteht das Festmahl aus dem traditionellen tadschikischen Palaw. Die Heumahd und die Getreideernte werden schnell und organisiert durchgeführt.   ",
+            "questions": [
+              {
+                "quiz": "Wann beginnt das Heuerntefest in tadschikischen Dörfern?",
+                "a": "im Herbst",
+                "c": "im Frühling",
+                "b": "im Sommer",
+                "d": "im Winter",
+                "answer": "b"
+              },
+              {
+                "quiz": "Die Heuernte dauert… .",
+                "a": "fast eine Stunde",
+                "c": "fast einen Monat",
+                "b": "einen Monat",
+                "d": "eine Woche",
+                "answer": "c"
+              },
+              {
+                "quiz": "Die Männer helfen … .",
+                "a": "bei der Ernte",
+                "c": "beim Schreiben",
+                "b": "bei der Jagd",
+                "d": "beim Laufen",
+                "answer": "a"
+              },
+              {
+                "quiz": "Wie wird die Heuernte durchgeführt?",
+                "a": "langsam",
+                "c": "nacheinander",
+                "b": "durcheinander",
+                "d": "unordentlich",
+                "answer": "c"
+              },
+              {
+                "quiz": "Wie lange wird das Heu bei jeder Familie gemäht?",
+                "a": "ein paar Monate",
+                "c": "24 Stunden",
+                "b": "8 bis 10 Tagen",
+                "d": "8 bis 10 Stunden",
+                "answer": "d"
+              },
+              {
+                "quiz": "Was wird am Nachmittag veranstaltet?",
+                "a": "ein Theaterstück",
+                "c": "ein Fußballspiel",
+                "b": "ein festliches Essen",
+                "d": "ein festliches Spiel",
+                "answer": "b"
+              },
+              {
+                "quiz": "Warum organisiert jede Familie das Heu-Hascharfest?",
+                "a": "Weil die Mitglieder der Familie faul sind.",
+                "c": "Weil die Familie sich darum nicht kümmert.",
+                "b": "Weil die Mitglieder der Familie die Heumahd hassen.",
+                "d": "Weil dadurch die Arbeit schnell beendet wird.",
+                "answer": "d"
+              },
+              {
+                "quiz": "Worum geht es in diesem Text?",
+                "a": "um die Heumahd",
+                "c": "um die Einkäufe",
+                "b": "um ein Schaf",
+                "d": "um eine Ziege",
+                "answer": "a"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tCarla Sudhoff\n\tMein Name ist Carla Sudhoff. Ich bin Hotelfachfrau und arbeite an der Rezeption eines großen Hotels in Berlin. Ich organisiere die Zimmerreservierungen, empfange die Gäste und kassiere das Geld für die Rechnungen. Wir haben viel internationales Publikum. Oft kennen die Gäste die Stadt nicht und ich muss ihnen den Weg erklären oder ihnen Tipps für Restaurants, Konzerte oder Theater geben. Ich habe Schichtdienst und arbeite am Vormittag oder am Nachmittag. So muss ich oft früh aufstehen oder komme erst sehr spät nach Hause und ich muss oft auch am Wochenende arbeiten. So habe ich wenig Freizeit. Zum Glück machen mein Mann und meine Tochter den Haushalt alleine. ",
+            "questions": [
+              {
+                "quiz": "Was ist Frau Sudhoff von Beruf?",
+                "a": "Autoschlosserin",
+                "c": "Lackiererin",
+                "b": "Hotelfachfrau",
+                "d": "Ingenieurin",
+                "answer": "b"
+              },
+              {
+                "quiz": "Frau Sudhoff … die Gäste … .",
+                "a": "nimmt … in Empfang",
+                "c": "gibt … Rat",
+                "b": "nimmt … Abschied",
+                "d": "gibt … Tipp",
+                "answer": "a"
+              },
+              {
+                "quiz": "Oft kennen … die Stadt nicht.",
+                "a": "Frau Sudhoff",
+                "c": "die Besucher",
+                "b": "Frau Sudhoffs Mann",
+                "d": "die Töchter",
+                "answer": "c"
+              },
+              {
+                "quiz": "Frau Sudhoff muss … den Weg erklären.",
+                "a": "ihrer Tochter",
+                "c": "der Hotelfachfrau",
+                "b": "ihrem Mann",
+                "d": "den Gästen",
+                "answer": "d"
+              },
+              {
+                "quiz": "Frau Sudhoff muss oft auch am Wochenende … .",
+                "a": "geht spazieren",
+                "c": "lesen",
+                "b": "geht einkaufen",
+                "d": "arbeiten",
+                "answer": "d"
+              },
+              {
+                "quiz": "Wer hat wenig Freizeit?",
+                "a": "die Gäste",
+                "c": "Frau Sudhoffs Tochter",
+                "b": "Frau Sudhoff",
+                "d": "Frau Sudhoffs Mann",
+                "answer": "b"
+              },
+              {
+                "quiz": "… machen Frau Sudhoffs Mann und ihre Tochter den Haushalt alleine.",
+                "a": "Glücklicherweise",
+                "c": "Unerfreulicherweise",
+                "b": "Bedauerlicherweise",
+                "d": "Unglücklicherweise",
+                "answer": "a"
+              },
+              {
+                "quiz": "Worum geht es in diesem Text?",
+                "a": "um eine Stadt",
+                "c": "um die Arbeit von Frau Sudhoff",
+                "b": "um einen Mann",
+                "d": "um den Haushalt der Gäste",
+                "answer": "c"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tMein Traumberuf\n\tIch heiße Max. Ich arbeite seit drei Jahren in meinem Beruf. Ich glaube, das ist mein Traumberuf. Ich brauche keinen Computer. Ich brauche nur mein Smartphone und mein Fahrrad. Meistens arbeite ich am Montag bis Freitag von 8 Uhr bis 13.30 Uhr. Aber manchmal arbeite ich auch am Samstag. Ich mache viel Sport bei der Arbeit.\n\tIch treffe viele Menschen, aber immer nur kurz. Ich arbeite allein. Ich spreche nicht viel, es ist ruhig. Ich hole Briefe oder Pakete in den Büros ab. Dann bringe ich die Briefe oder Pakete zu anderen Büros. Ich transportiere alles auf meinem Rücken. Ich fahre nur in der Stadt. Ich fahre mit meinem Fahrrad. In der Stadt ist man mit dem Fahrrad sehr schnell. Autos stehen da oft im Stau. Ich muss schnell sein, denn die Leute haben keine Zeit. Mein Fahrrad ist sehr wichtig für meinen Beruf.   ",
+            "questions": [
+              {
+                "quiz": "Seit wann arbeitet Max in seinem Beruf?",
+                "a": "seit 3 Jahren",
+                "c": "seit 30 Jahren",
+                "b": "seit 13 Jahren",
+                "d": "seit 8 Jahren",
+                "answer": "a"
+              },
+              {
+                "quiz": "Max braucht keinen … .",
+                "a": "Kamera",
+                "c": "Smartphone",
+                "b": "Fahrrad",
+                "d": "Computer",
+                "answer": "d"
+              },
+              {
+                "quiz": "… arbeitet Max Montag bis Freitag von 8 Uhr bis 13.30 Uhr.",
+                "a": "Ausnahmeweise",
+                "c": "Ab und zu",
+                "b": "Gewöhnlich",
+                "d": "Ab und an",
+                "answer": "b"
+              },
+              {
+                "quiz": "Aber … arbeitet Max auch am Samstag.",
+                "a": "ständig",
+                "c": "andauernd",
+                "b": "immer",
+                "d": "ab und zu",
+                "answer": "d"
+              },
+              {
+                "quiz": "Max macht viel Sport … .",
+                "a": "beim Essen",
+                "c": "bei der Arbeit",
+                "b": "in der Turnhalle",
+                "d": "beim Kochen",
+                "answer": "c"
+              },
+              {
+                "quiz": "Wie fährt Max?",
+                "a": "mit seinem Fahrrad",
+                "c": "mit dem Bus",
+                "b": "mit seinem Motorrad",
+                "d": "mit dem Auto",
+                "answer": "a"
+              },
+              {
+                "quiz": "Was ist Max von Beruf?",
+                "a": "Lehrer",
+                "c": "Fahrradkurier",
+                "b": "Designer",
+                "d": "Ingenieur",
+                "answer": "c"
+              },
+              {
+                "quiz": "Worum geht es in diesem Text?",
+                "a": "um die Freunde von Max",
+                "c": "um eine Sprache",
+                "b": "um den Traumberuf von Max",
+                "d": "um ein Motorrad",
+                "answer": "b"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tDie Nachtigall\n\tEines Tages wollte der Hodscha frische Früchte essen, darum schlich er in einen fremden Garten. Dort kletterte er auf einen Baum und aß all die Früchte, die in seiner Reichweite waren. Etwas später kam der Besitzer des Gartens und fragte ihn böse: „Was machst du da oben?“ Der Hodscha versuchte sich heraus zu reden und antwortete süß: „Oh, mein Herr, ich bin nur eine Nachtigall und sitze hier oben und singe!“ Der Mann amüsierte sich darüber und sagte lachend: „Soso, du bist also eine Nachtigall? Dann lass mich mal ein Lied von dir hören!“ Der Hodscha machte komische Gesichtsausdrücke und gab merkwürdige Töne von sich. Der Besitzer brach in Lachen aus und sagte: „Mann, was für eine Art von Singen ist das? Ich habe noch nie zuvor eine Nachtigall so singen hören!“ Der Hodscha erwiderte: „Ja, eine unerfahrene Nachtigall singt nun mal so!“ ",
+            "questions": [
+              {
+                "quiz": "Wohin schlich der Hodscha?",
+                "a": "in einen fremden Garten",
+                "c": "in seinen Hof",
+                "b": "in eine fremde Wohnung",
+                "d": "in ein Zimmer",
+                "answer": "a"
+              },
+              {
+                "quiz": "Was aß der Hodscha?",
+                "a": "die Kräuter",
+                "c": "das Obst",
+                "b": "das Gemüse",
+                "d": "die Suppe",
+                "answer": "c"
+              },
+              {
+                "quiz": "Wer kam später in den Garten?",
+                "a": "die Frau vom Hodscha",
+                "c": "eine Nachtigall",
+                "b": "der Besitzer des Gartens",
+                "d": "die Nachbarin",
+                "answer": "b"
+              },
+              {
+                "quiz": "Der Mann fragte den Hodscha: „Was … du da oben?“",
+                "a": "sagen",
+                "c": "gebe",
+                "b": "kann",
+                "d": "machst",
+                "answer": "d"
+              },
+              {
+                "quiz": "Der Mann sagte: „Soso, du bist also …?“",
+                "a": "ein Mensch",
+                "c": "ein Singvogel",
+                "b": "der Hodscha",
+                "d": "eine Fledermaus",
+                "answer": "c"
+              },
+              {
+                "quiz": "Der Hodscha machte … Gesichtsausdrücke.",
+                "a": "lustige",
+                "c": "ernste",
+                "b": "traurige",
+                "d": "ernsthafte",
+                "answer": "a"
+              },
+              {
+                "quiz": "Der Hodscha gab … Töne von sich.",
+                "a": "langweilige",
+                "c": "gewöhnliche",
+                "b": "normale",
+                "d": "seltsame",
+                "answer": "d"
+              },
+              {
+                "quiz": "Worum geht es in diesem Text?",
+                "a": "um die schönen Mädchen",
+                "c": "um das Gemüse",
+                "b": "um Hodschas Gesang",
+                "d": "um einen Papagei",
+                "answer": "b"
+              }
+            ]
+          },
+          {
+            "overQuiz": "Нажмите чтобы посмотреть текст и ответить\n\n\tIss, mein Pelz, iss! \n\tDer Hodscha ist zu einem Bankett eingeladen. Er trägt sein Alltagsgewand und wird von niemandem beachtet. Das macht ihn betroffen. Er eilt nach Hause, wirft seinen prächtigen Pelzmantel um und kehrt zu der Festgesellschaft zurück. Schon am Eingang wird er in Empfang genommen und zu einem Podest geführt, wo man ihm den besten Platz zuweist.\n\tAls das Essen serviert wird, tunkt der Hodscha den Kragen seines Mantels in die Schüssel und sagt: „Bitte, bediene Dich. Iss, mein Pelz, iss, mein Pelz!“\n\tDen erstaunten Gästen aber erklärt er: „Die Ehre gilt ja doch dem Pelz, soll der auch das Essen haben!“  ",
+            "questions": [
+              {
+                "quiz": "Der Hodscha ist … eingeladen.",
+                "a": "zu einem Festessen",
+                "c": "in ein Theater",
+                "b": "zu einer Sitzung",
+                "d": "in ein Museum",
+                "answer": "a"
+              },
+              {
+                "quiz": "Der Hodscha … sein Alltagsgewand … .",
+                "a": "kam … zurück",
+                "c": "hört … auf",
+                "b": "rief … an",
+                "d": "zieht … an",
+                "answer": "d"
+              },
+              {
+                "quiz": "Der Hodscha wird von … beachtet.",
+                "a": "den Kindern",
+                "c": "der Frauen",
+                "b": "keinem",
+                "d": "einen",
+                "answer": "b"
+              },
+              {
+                "quiz": "Der Hodscha kehrt zu … zurück.",
+                "a": "seinem Freund",
+                "c": "dieser Käuferin",
+                "b": "der Verkäuferin",
+                "d": "der Festgesellschaft",
+                "answer": "d"
+              },
+              {
+                "quiz": "Schon am Eingang wird … in Empfang genommen.",
+                "a": "die Frauen",
+                "c": "der Hodscha",
+                "b": "seines Freundes",
+                "d": "seines Bekannten",
+                "answer": "c"
+              },
+              {
+                "quiz": "Wohin tunkt der Hodscha den Kragen seines Mantels?",
+                "a": "in die Schüssel",
+                "c": "in die Teekanne",
+                "b": "in die Teeschüssel",
+                "d": "in das Schüsselchen",
+                "answer": "a"
+              },
+              {
+                "quiz": "„Die Ehre gilt ja doch dem Pelz, soll der auch … haben!“",
+                "a": "das Glück",
+                "c": "die Suppe",
+                "b": "das Geschenk",
+                "d": "die Blume",
+                "answer": "c"
+              },
+              {
+                "quiz": "Worum geht es in diesem Text?",
+                "a": "um einen Freund von dem Hodscha",
+                "c": "um die salzige Suppe",
+                "b": "um die Ehre des Menschen",
+                "d": "um zwei Schüssel",
+                "answer": "b"
+              }
+            ]
+          }
+        ]
+      }
     }
   },
   "tg": {
@@ -11360,7 +11356,7 @@
       "ctg10": {
         "nameCategory": "Забони англисӣ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "imgCategory": "https://i.ibb.co/gtXg8Yx/4.png",
         "type": "variant",
         "questions": [
           {
@@ -11920,7 +11916,7 @@
       "ctg11": {
         "nameCategory": "Забони немисӣ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "imgCategory": "https://i.ibb.co/YypbKgF/5.png",
         "type": "variant",
         "questions": [
           {
