@@ -1,0 +1,107 @@
+{
+  "config": {
+    "version": 16,
+    "urlMessage": "https://play.google.com/store/apps/details?id=com.tower.smasher",
+    "adsBanner": [
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/3997020565"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/8562951534"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/2189114871"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/2875510585"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/8754523223"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/2380686569"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/9001935230"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/3941180242"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/3067082279"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/2819670269"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/7580584618"
+      },
+      {
+        "service": "y",
+        "id": "R-M-1756090-1"
+      }
+    ],
+    "adsInterstitial": [
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/1917652134"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/6539423427"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/9165586762"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/1147210532"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/7221949704"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/5856897141"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/8244183497"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/5170501434"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/3294312983"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/5920476323"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/9070841820"
+      },
+      {
+        "service": "y",
+        "id": "R-M-1756090-2"
+      }
+    ],
+    "message": "Ура! Хорошие новости доступна обновление!"
+  }
+}
