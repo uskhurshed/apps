@@ -344,8 +344,8 @@
     ]
   },
   "config": {
-    "version": 300000000,
-    "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.zkplayer",
+    "version": 1,
+    "urlMessage": "https://play.google.com/store/apps/details?id=com.shufflevpn.easyapps",
     "adsBanner": [
       {
         "service": "g",
