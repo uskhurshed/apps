@@ -12479,6 +12479,10 @@
     "version": 44,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
     "adsBanner": [
+       {
+        "service": "y",
+        "id": "R-M-1719790-1"
+      },
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/6512431905"
@@ -12522,13 +12526,13 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/9365563360"
-      },
-      {
-        "service": "y",
-        "id": "R-M-1719790-1"
       }
     ],
     "adsInterstitial": [
+       {
+        "service": "y",
+        "id": "R-M-1719790-2"
+      },
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/4552482975"
@@ -12572,10 +12576,6 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/1518862937"
-      },
-      {
-        "service": "y",
-        "id": "R-M-1719790-2"
       }
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
