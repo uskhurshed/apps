@@ -4,6 +4,10 @@
     "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.farhang",
     "adsBanner": [
       {
+        "service": "y",
+        "id": "R-M-1756079-1"
+      },
+      {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/5961767565"
       },
@@ -46,13 +50,13 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/7332450488"
-      },
-      {
-        "service": "y",
-        "id": "R-M-1756079-1"
       }
     ],
     "adsInterstitial": [
+        {
+        "service": "y",
+        "id": "R-M-1756079-2"
+      },
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/3579184797"
@@ -96,10 +100,6 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/5520675368"
-      },
-      {
-        "service": "y",
-        "id": "R-M-1756079-2"
       }
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
