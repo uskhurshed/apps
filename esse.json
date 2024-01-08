@@ -871,6 +871,10 @@
     "version": 300000000,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.zkplayer",
     "adsBanner": [
+       {
+        "service": "y",
+        "id": "R-M-1756089-1"
+      },
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/9392995087"
@@ -914,13 +918,13 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/2630336804"
-      },
-      {
-        "service": "y",
-        "id": "R-M-1756089-1"
       }
     ],
     "adsInterstitial": [
+      {
+        "service": "y",
+        "id": "R-M-1756089-2"
+      },
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/5884446171"
@@ -964,10 +968,6 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/3911628880"
-      },
-      {
-        "service": "y",
-        "id": "R-M-1756089-2"
       }
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
