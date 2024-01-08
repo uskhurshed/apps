@@ -2127,6 +2127,10 @@
     "version": 1,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.rhapps.kalimayobak",
     "adsBanner": [
+       {
+        "service": "y",
+        "id": "R-M-3297026-1"
+      },
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/4382558595"
@@ -2170,13 +2174,13 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/4064328588"
-      },
-      {
-        "service": "y",
-        "id": "R-M-3297026-1"
       }
     ],
     "adsInterstitial": [
+       {
+        "service": "y",
+        "id": "R-M-3297026-2"
+      },
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/2283008862"
@@ -2220,10 +2224,6 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/5185838566"
-      },
-      {
-        "service": "y",
-        "id": "R-M-3297026-2"
       }
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
