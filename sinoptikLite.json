@@ -3,6 +3,10 @@
     "version": 16,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.tower.smasher",
     "adsBanner": [
+       {
+        "service": "y",
+        "id": "R-M-1756090-1"
+      },
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/3997020565"
@@ -46,13 +50,13 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/7580584618"
-      },
-      {
-        "service": "y",
-        "id": "R-M-1756090-1"
       }
     ],
     "adsInterstitial": [
+        {
+        "service": "y",
+        "id": "R-M-1756090-2"
+      },
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/1917652134"
@@ -96,10 +100,6 @@
       {
         "service": "g",
         "id": "ca-app-pub-8198363995431120/9070841820"
-      },
-      {
-        "service": "y",
-        "id": "R-M-1756090-2"
       }
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
