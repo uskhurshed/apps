@@ -129,6 +129,10 @@
     "adsReward": [
       {
         "service": "y",
+        "id": "demo-rewarded-yandex"
+      },
+           {
+        "service": "y",
         "id": "R-M-3871993-3"
       }
     ],
