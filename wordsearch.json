@@ -127,14 +127,15 @@
       }
     ],
     "adsReward": [
+       {
+        "service": "g",
+        "id": "ca-app-pub-3940256099942544/5224354917"
+      },
       {
         "service": "y",
         "id": "demo-rewarded-yandex"
-      },
-           {
-        "service": "y",
-        "id": "R-M-3871993-3"
       }
+          
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
   }
