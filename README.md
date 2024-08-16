@@ -3,7 +3,6 @@
 
 <h2>💼 Professional Experience</h2>
 
-<h3>Unfield</h3>
 <p><strong>Position</strong>: Android Developer<br>
 <strong>Duration</strong>: 11.12.2023 - Present</p>
 <ul>
@@ -23,8 +22,6 @@
     <li>Implemented CI/CD pipelines using GitHub Actions to automate testing, building, and deployment processes.</li>
     <li>Collaborated closely with the design team to create intuitive and visually appealing user interfaces using XML and custom views.</li>
     <li>Managed app releases on the Google Play Store, including handling versioning, beta testing, and post-release monitoring.</li>
-       <li>Designed and developed mobile applications for both Android and iOS platforms, utilizing cross-platform frameworks such as Flutter.</li>
-    <li>Worked on implementing Bluetooth and NFC functionalities to create connected devices and contactless payment solutions.</li>
     <li>Engaged in performance tuning and optimization, resulting in a significant reduction in app load times and battery consumption.</li>
     <li>Integrated analytics and A/B testing tools to track user behavior and improve app features based on data-driven insights.</li>
     <li>Provided ongoing support and maintenance, including bug fixing, performance improvements, and feature updates.</li>
@@ -58,7 +55,6 @@
     <li><strong>Push Notifications (FCM/APNs)</strong>: Experienced in implementing push notifications using Firebase Cloud Messaging (FCM) or Apple Push Notification Service (APNs).</li>
     <li><strong>Augmented Reality (ARCore/ARKit)</strong>: Familiarity with developing augmented reality experiences using ARCore for Android or ARKit for iOS.</li>
     <li><strong>Security Best Practices</strong>: Knowledge of implementing security best practices, including encryption, secure data storage, and protecting user privacy.</li>
-    <li><strong>Machine Learning (TensorFlow Lite)</strong>: Experience in integrating machine learning models into mobile applications using TensorFlow Lite.</li>
     <li><strong>Performance Optimization</strong>: Skilled in profiling and optimizing applications for better performance, memory usage, and battery efficiency.</li>
     <li><strong>Serverless Architectures (Firebase Functions/AWS Lambda)</strong>: Understanding of building and deploying serverless functions to handle backend logic without managing servers.</li>
     <li><strong>A/B Testing & Analytics</strong>: Experience in setting up A/B tests and using analytics tools like Google Analytics or Firebase Analytics to track and optimize user behavior.</li>
