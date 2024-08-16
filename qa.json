@@ -1,1 +1,28 @@
 
+{
+  "config": {
+    "version": 10,
+    "urlMessage": "https://play.google.com/store/apps/details?id=tj.apps.savol",
+    "adsBanner": [
+       {
+        "service": "y",
+        "id": "R-M-1756090-1"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/6239872425"
+      }
+    ],
+    "adsInterstitial": [
+        {
+        "service": "y",
+        "id": "R-M-1756090-2"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/1858963655"
+      }
+    ],
+    "message": "Ура! Хорошие новости доступна обновление!"
+  }
+}
