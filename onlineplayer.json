@@ -1,7 +1,8 @@
 {
   "config": {
     "host": "http://172.29.100.111/",
-    "startMode": "offline",
+    "webHost": "https://z3.fm/",
+    "startMode": "web",
     "version": 1,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.farhang",
     "adsBanner": [
