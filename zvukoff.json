@@ -3,7 +3,7 @@
     "host": "http://khurshedapps.ru/",
     "webHost": "https://z3.fm/",
     "webScript": "",
-    "startMode": "offline",
+    "startMode": "online",
     "version": 20,
     "message": "Ура! Хорошие новости доступна обновление!",
     "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.zkplayerpro",
