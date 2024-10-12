@@ -2,6 +2,7 @@
   "config": {
     "host": "http://khurshedapps.ru/",
     "webHost": "https://z3.fm/",
+    "webScript": "",
     "startMode": "online",
     "version": 20,
     "message": "Ура! Хорошие новости доступна обновление!",
