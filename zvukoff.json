@@ -5,6 +5,7 @@
     "webScript": "",
     "startMode": "online",
     "version": 20,
+    "newUsersBlock": true,
     "message": "Ура! Хорошие новости доступна обновление!",
     "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.zkplayerpro",
     "information": {
