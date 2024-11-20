@@ -348,14 +348,14 @@
     "urlMessage": "https://play.google.com/store/apps/details?id=com.shufflevpn.easyapps",
     "adsBanner": [
       {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/4516792215"
+        "service": "y",
+        "id": "R-M-12964175-1"
       }
     ],
     "adsInterstitial": [
       {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/5259668873"
+        "service": "y",
+        "id": "R-M-12964175-2"
       }
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
