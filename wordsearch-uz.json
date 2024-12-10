@@ -4,7 +4,7 @@
     "adsBanner": [
       {
         "service": "y",
-        "id": "R-M-13240278-1"
+        "id": "R-M-13285781-1"
       },
       {
         "service": "g",
@@ -14,7 +14,7 @@
     "adsInterstitial": [
       {
         "service": "y",
-        "id": "R-M-13240278-2"
+        "id": "R-M-13285781-2"
       },
       {
         "service": "g",
@@ -24,7 +24,7 @@
     "adsReward": [
       {
         "service": "y",
-        "id": "R-M-13240278-3"
+        "id": "R-M-13285781-3"
       }
     ],
     "message": "Yaxshi yangilik, yangilanish mavjud!"
