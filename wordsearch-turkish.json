@@ -158,6 +158,10 @@
         {
           "service": "y",
           "id": "R-M-13240295-3"
+        },
+        {
+          "service": "g",
+          "id": "ca-app-pub-8198363995431120/9352694148"
         }
       ],
       "message": "Yaşasın! İyi haber güncellemesi mevcut!"
