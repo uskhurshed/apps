@@ -3239,7 +3239,7 @@
     "services": [
       {
         "title": "Муоинаи техникӣ",
-        "img": "https://i.ibb.co/h1R6Hn7/num.png",
+        "img": "https://i.ibb.co/zVKTnRd/texosmotr.png",
         "url": "https://texosmotr.tj/",
         "block": "var anchorElements = document.querySelectorAll('a[href=\\\"./\\\"]');anchorElements.forEach(function (anchorElement) {if (anchorElement) {anchorElement.remove();}});var elements = document.querySelectorAll('.pb-5.text-center');elements.forEach(function (element) {if (element) {element.remove();}});var downloadAndroidAppElement = document.getElementById('downloadandroidapp');if (downloadAndroidAppElement) {downloadAndroidAppElement.remove();}var elementsWithClass = document.querySelectorAll('.shadow-2xl'); elementsWithClass.forEach(function (element) { element.classList.remove('shadow-2xl'); });var bodyElement = document.querySelector('body.bg-gray-100'); if (bodyElement) { bodyElement.style.backgroundColor = '#2c5282'; } ;",
         "colorHex": "#154E80",
@@ -3247,7 +3247,7 @@
       },
       {
         "title": "Барасмиятдарории гумрукӣ",
-        "img": "https://i.ibb.co/N1xPbxG/cust.png",
+        "img": "https://i.ibb.co/rkSm7qv/restamoj.png",
         "url": "https://rastamojka.tj/",
         "block": "var instagramLink = document.querySelector('a[href=\"instagram://user?username=rastamojka.tj\"]'); if (instagramLink) { instagramLink.parentNode.removeChild(instagramLink); }var donateLink = document.querySelector('a[href=\"/donate\"]'); if (donateLink) { donateLink.parentNode.removeChild(donateLink);};\nvar elementsWithClass = document.querySelectorAll('.h-12'); elementsWithClass.forEach(function (element) { element.remove(); });\nvar ptClass = document.querySelectorAll('.pt-8'); ptClass.forEach(function (element) { element.classList.remove('pt-8'); });\nvar elRouter = document.querySelectorAll('.router-link-active.router-link-exact-active'); elRouter.forEach(function (element) { element.remove(); });\nvar marginRemove = document.querySelectorAll('.mt-6'); marginRemove.forEach(function (element) { element.classList.remove('mt-6'); });\nvar footer1 = document.querySelectorAll('.text-center.pt-7.pb-2'); footer1.forEach(function (element) { element.remove(); });\nvar downloadAndroidAppElement = document.getElementById('downloadandroidapp'); if (downloadAndroidAppElement) { downloadAndroidAppElement.remove(); }\nvar searchText = \"Версия 0.0.1. Цены с 20.04.2023\"; var elements = document.querySelectorAll('*'); elements.forEach(function (element) { if (element.textContent === searchText) { element.remove(); } });\n\nvar scriptElements = document.querySelectorAll('script');scriptElements.forEach(function (scriptElement) {scriptElement.remove();});\nvar linkElements = document.querySelectorAll('link[rel*=\"pre\"]'); linkElements.forEach(function (linkElement) { linkElement.remove(); });\nvar elementToRemove = document.getElementById('google_esf'); if (elementToRemove) { elementToRemove.remove(); }\nvar metaElements = document.querySelectorAll('meta'); metaElements.forEach(function (metaElement) { metaElement.remove(); });\nvar elementsWithClass = document.querySelectorAll('.shadow-2xl'); elementsWithClass.forEach(function (element) { element.classList.remove('shadow-2xl'); });\nvar elementsWithStyle = document.querySelectorAll('div[style*=\"position: fixed !important; left: 0px !important; right\"]'); elementsWithStyle.forEach(function (element) {element.remove(); });\nvar elements = document.querySelectorAll('.text-white.p-10'); elements.forEach(function (element) { element.style.background = 'none'; });\nvar appElement = document.getElementById('app'); if (appElement) { appElement.style.backgroundColor = '#0048BA'; }",
         "colorHex": "#2C5282",
@@ -3255,7 +3255,7 @@
       },
       {
         "title": "Тарифҳои БДА",
-        "img": "https://i.ibb.co/4YXL6q7/tar.png",
+        "img": "https://i.ibb.co/0cjk28j/denejtarif.png",
         "url": "file:///android_asset/tarifs.html",
         "block": "",
         "colorHex": "#0070C0",
