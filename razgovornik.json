@@ -3,182 +3,218 @@
     {
       "ru": "Общие полезные сведения",
       "tj": "Маълумоти муфиди умумӣ",
-      "en": "General useful information"
+      "en": "General useful information",
+      "img": "pic1"
     },
     {
       "ru": "Встреча",
       "tj": "Вохӯрӣ",
-      "en": "Meeting"
+      "en": "Meeting",
+      "img": "pic2"
     },
     {
       "ru": "Знакомство",
       "tj": "Шиносоӣ",
-      "en": "Acquaintance"
+      "en": "Acquaintance",
+      "img": "pic3"
     },
     {
       "ru": "Согласие",
       "tj": "Розигӣ, ризоият",
-      "en": "Consent"
+      "en": "Consent",
+      "img": "pic4"
     },
     {
       "ru": "Отказ",
       "tj": "Радкунӣ",
-      "en": "Refusal"
+      "en": "Refusal",
+      "img": "pic5"
     },
     {
       "ru": "Поздравление",
       "tj": "Табрикот",
-      "en": "Congratulations"
+      "en": "Congratulations",
+      "img": "pic6"
     },
     {
       "ru": "Приглашение",
       "tj": "Таклиф, даъват",
-      "en": "Invitation"
+      "en": "Invitation",
+      "img": "pic7"
     },
     {
       "ru": "Семья",
       "tj": "Оила",
-      "en": "Family"
+      "en": "Family",
+      "img": "pic8"
     },
     {
       "ru": "Профессия",
       "tj": "Касбу кор",
-      "en": "Profession"
+      "en": "Profession",
+      "img": "pic9"
     },
     {
       "ru": "Язык",
       "tj": "Забон",
-      "en": "Language"
+      "en": "Language",
+      "img": "pic10"
     },
     {
       "ru": "Время",
       "tj": "Вақт",
-      "en": "Time"
+      "en": "Time",
+      "img": "pic11"
     },
     {
       "ru": "Возраст",
       "tj": "Синну сол",
-      "en": "Age"
+      "en": "Age",
+      "img": "pic12"
     },
     {
       "ru": "Качество",
       "tj": "Сифат",
-      "en": "Quality"
+      "en": "Quality",
+      "img": "pic13"
     },
     {
       "ru": "Цвета",
       "tj": "Рангҳо",
-      "en": "Colors"
+      "en": "Colors",
+      "img": "pic14"
     },
     {
       "ru": "Числительные",
       "tj": "Шумораҳо",
-      "en": "Numerals"
+      "en": "Numerals",
+      "img": "pic15"
     },
     {
       "ru": "Погода",
       "tj": "Обу ҳаво",
-      "en": "Weather"
+      "en": "Weather",
+      "img": "pic16"
     },
     {
       "ru": "Меры веса, длины, объёма",
       "tj": "Ченаки вазн, дарозӣ ва миқдор",
-      "en": "Weight, length, volume measures"
+      "en": "Weight, length, volume measures",
+      "img": "pic17"
     },
     {
       "ru": "Вывески и надписи",
       "tj": "Навиштаҷот ва овезаҳо",
-      "en": "Signs and inscriptions"
+      "en": "Signs and inscriptions",
+      "img": "pic18"
     },
     {
       "ru": "Таможня",
       "tj": "Гумрук",
-      "en": "Customs"
+      "en": "Customs",
+      "img": "pic19"
     },
     {
       "ru": "Банк",
       "tj": "Бонк",
-      "en": "Bank"
+      "en": "Bank",
+      "img": "pic20"
     },
     {
       "ru": "В гостинице",
       "tj": "Дар меҳмонхона",
-      "en": "At the hotel"
+      "en": "At the hotel",
+      "img": "pic21"
     },
     {
       "ru": "В ресторане",
       "tj": "Дар тарабхона",
-      "en": "At the restaurant"
+      "en": "At the restaurant",
+      "img": "pic22"
     },
     {
       "ru": "На самолёте",
       "tj": "Дар ҳавопаймо",
-      "en": "By plane"
+      "en": "By plane",
+      "img": "pic23"
     },
     {
       "ru": "На поезде",
       "tj": "Дар қатора",
-      "en": "By train"
+      "en": "By train",
+      "img": "pic24"
     },
     {
       "ru": "На автобусе",
       "tj": "Дар автобус",
-      "en": "By bus"
+      "en": "By bus",
+      "img": "pic25"
     },
     {
       "ru": "Такси",
       "tj": "Таксӣ",
-      "en": "Taxi"
+      "en": "Taxi",
+      "img": "pic26"
     },
     {
       "ru": "Телефон",
       "tj": "Телефон",
-      "en": "Telephone"
+      "en": "Telephone",
+      "img": "pic27"
     },
     {
       "ru": "Интернет",
       "tj": "Интернет",
-      "en": "Internet"
+      "en": "Internet",
+      "img": "pic28"
     },
     {
       "ru": "В театре",
       "tj": "Дар театр",
-      "en": "At the theater"
+      "en": "At the theater",
+      "img": "pic29"
     },
     {
       "ru": "На концерте",
       "tj": "Дар консерт",
-      "en": "At the concert"
+      "en": "At the concert",
+      "img": "pic30"
     },
     {
       "ru": "В музее",
       "tj": "Дар осорхона",
-      "en": "At the museum"
+      "en": "At the museum",
+      "img": "pic31"
     },
     {
       "ru": "В супермаркете",
       "tj": "Дар супермаркет",
-      "en": "At the supermarket"
+      "en": "At the supermarket",
+      "img": "pic32"
     },
     {
       "ru": "Обращение в полицию",
       "tj": "Муроҷиат ба полис",
-      "en": "Contacting the police"
+      "en": "Contacting the police",
+      "img": "pic33"
     },
     {
       "ru": "Медицинская помощь",
       "tj": "Ёрии тиббӣ",
-      "en": "Medical assistance"
+      "en": "Medical assistance",
+      "img": "pic34"
     },
     {
       "ru": "В аптеке",
       "tj": "Дар дорухона",
-      "en": "At the pharmacy"
+      "en": "At the pharmacy",
+      "img": "pic35"
     },
     {
       "ru": "У зубного врача",
       "tj": "Дар назди духтури дандон",
-      "en": "At the dentist"
+      "en": "At the dentist",
+      "img": "pic36"
     }
   ],
   "phrases": [
@@ -6723,39 +6759,39 @@
       "en": "What is the fine imposed on a legal entity for an employee without a work permit?"
     }
   ],
-    "config": {
-      "version": 10,
-      "urlMessage": "https://play.google.com/store/apps/details?id=tj.easyapps.ruwordsearch",
-      "adsBanner": [
-        {
-          "service": "y",
-          "id": "R-M-13344429-1"
-        },
-        {
-          "service": "g",
-          "id": "ca-app-pub-8198363995431120/2587841790"
-        }
-      ],
-      "adsInterstitial": [
-        {
-          "service": "y",
-          "id": "R-M-13344429-2"
-        },
-        {
-          "service": "g",
-          "id": "ca-app-pub-8198363995431120/9151080833"
-        }
-      ],
-      "adsReward": [
-        {
-          "service": "y",
-          "id": "R-M-13344429-3"
-        },
-        {
-          "service": "g",
-          "id": "ca-app-pub-8198363995431120/5239755984"
-        }
-      ],
-      "message": "Ура! Хорошие новости доступна обновление!"
-    }
+  "config": {
+    "version": 10,
+    "urlMessage": "https://play.google.com/store/apps/details?id=tj.easyapps.kzwordsearch",
+    "adsBanner": [
+      {
+        "service": "y",
+        "id": "R-M-13344456-1"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/9572185991"
+      }
+    ],
+    "adsInterstitial": [
+      {
+        "service": "y",
+        "id": "R-M-13344456-2"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/6410836030"
+      }
+    ],
+    "adsReward": [
+      {
+        "service": "y",
+        "id": "R-M-13344456-3"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/4836431306"
+      }
+    ],
+    "message": "Жақсы жаңалық жаңартуы қолжетімді!"
+  }
 }
