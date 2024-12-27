@@ -933,7 +933,7 @@
       {
         "title": "Предупреждающие знаки",
         "img": "https://i.ibb.co/kSKsSsp/predup.png",
-        "url": "file:///android_asset/signsPredupred.html",
+        "url": "signsPredupred.html",
         "block": "",
         "colorHex": "#D70000",
         "type": "web"
@@ -941,7 +941,7 @@
       {
         "title": "Знаки приоритета",
         "img": "https://i.ibb.co/5F6rYvC/prioritet.png",
-        "url": "file:///android_asset/signsPrioritet.html",
+        "url": "signsPrioritet.html",
         "block": "",
         "colorHex": "#D7BA00",
         "type": "web"
@@ -949,7 +949,7 @@
       {
         "title": "Запрещающие знаки",
         "img": "https://i.ibb.co/prcKmGT/zapret.png",
-        "url": "file:///android_asset/signsZapret.html",
+        "url": "signsZapret.html",
         "block": "",
         "colorHex": "#D70000",
         "type": "web"
@@ -957,7 +957,7 @@
       {
         "title": "Предписывающие знаки",
         "img": "https://i.ibb.co/L0kBLMV/predpis.pngg",
-        "url": "file:///android_asset/signsPredpis.html",
+        "url": "signsPredpis.html",
         "block": "",
         "colorHex": "#0000CE",
         "type": "web"
@@ -965,7 +965,7 @@
       {
         "title": "Информационные знаки",
         "img": "https://i.ibb.co/mvS0L2D/informa.png",
-        "url": "file:///android_asset/signsInfo.html",
+        "url": "signsInfo.html",
         "block": "",
         "colorHex": "#0000CE",
         "type": "web"
@@ -973,7 +973,7 @@
       {
         "title": "Знаки сервиса",
         "img": "https://i.ibb.co/9sGc3Vy/service.png",
-        "url": "file:///android_asset/signsService.html",
+        "url": "signsService.html",
         "block": "",
         "colorHex": "#0000CE",
         "type": "web"
@@ -981,7 +981,7 @@
       {
         "title": "Знаки доп. информации",
         "img": "https://i.ibb.co/zsxwLbc/dopznak.png",
-        "url": "file:///android_asset/signsOthers.html",
+        "url": "signsOthers.html",
         "block": "",
         "colorHex": "#48BC48",
         "type": "web"
@@ -989,7 +989,7 @@
       {
         "title": "Горизонтальные разметки",
         "img": "https://i.ibb.co/ZNSm36P/horiz.png",
-        "url": "file:///android_asset/horizSign.html",
+        "url": "horizSign.html",
         "block": "",
         "colorHex": "#0000CE",
         "type": "web"
@@ -997,7 +997,7 @@
       {
         "title": "Вертикальные разметки",
         "img": "https://i.ibb.co/LNF5rQ6/vert.png",
-        "url": "file:///android_asset/vertSign.html",
+        "url": "vertSign.html",
         "block": "",
         "colorHex": "#D7BA00",
         "type": "web"
@@ -1023,7 +1023,7 @@
       {
         "title": "Денежные тарифы ГАИ",
         "img": "https://i.ibb.co/0cjk28j/denejtarif.png",
-        "url": "file:///android_asset/tarifs.html",
+        "url": "tarifs.html",
         "block": "",
         "colorHex": "#0070C0",
         "type": "web"
@@ -3166,7 +3166,7 @@
       {
         "title": "Аломатҳои огоҳкунанда",
         "img": "https://i.ibb.co/kSKsSsp/predup.png",
-        "url": "file:///android_asset/signsPredupred.html",
+        "url": "signsPredupred.html",
         "block": "",
         "colorHex": "#D70000",
         "type": "web"
@@ -3174,7 +3174,7 @@
       {
         "title": "Аломатҳои афзалиятнок",
         "img": "https://i.ibb.co/5F6rYvC/prioritet.png",
-        "url": "file:///android_asset/signsPrioritet.html",
+        "url": "signsPrioritet.html",
         "block": "",
         "colorHex": "#D7BA00",
         "type": "web"
@@ -3182,7 +3182,7 @@
       {
         "title": "Аломатҳои манъкунӣ",
         "img": "https://i.ibb.co/prcKmGT/zapret.png",
-        "url": "file:///android_asset/signsZapret.html",
+        "url": "signsZapret.html",
         "block": "",
         "colorHex": "#D70000",
         "type": "web"
@@ -3190,7 +3190,7 @@
       {
         "title": "Аломатҳои ҳатмӣ",
         "img": "https://i.ibb.co/L0kBLMV/predpis.pngg",
-        "url": "file:///android_asset/signsPredpis.html",
+        "url": "signsPredpis.html",
         "block": "",
         "colorHex": "#0000CE",
         "type": "web"
@@ -3198,7 +3198,7 @@
       {
         "title": "Аломатҳои иттилоотӣ",
         "img": "https://i.ibb.co/mvS0L2D/informa.png",
-        "url": "file:///android_asset/signsInfo.html",
+        "url": "signsInfo.html",
         "block": "",
         "colorHex": "#0000CE",
         "type": "web"
@@ -3206,7 +3206,7 @@
       {
         "title": "Аломатҳои хизматрасонӣ",
         "img": "https://i.ibb.co/9sGc3Vy/service.png",
-        "url": "file:///android_asset/signsService.html",
+        "url": "signsService.html",
         "block": "",
         "colorHex": "#0000CE",
         "type": "web"
@@ -3214,7 +3214,7 @@
       {
         "title": "Аломатҳои иловагӣ",
         "img": "https://i.ibb.co/zsxwLbc/dopznak.png",
-        "url": "file:///android_asset/signsOthers.html",
+        "url": "signsOthers.html",
         "block": "",
         "colorHex": "#48BC48",
         "type": "web"
@@ -3222,7 +3222,7 @@
       {
         "title": "Нишонаҳои уфуқӣ",
         "img": "https://i.ibb.co/ZNSm36P/horiz.png",
-        "url": "file:///android_asset/horizSign.html",
+        "url": "horizSign.html",
         "block": "",
         "colorHex": "#0000CE",
         "type": "web"
@@ -3230,7 +3230,7 @@
       {
         "title": "Нишонаҳои амудӣ",
         "img": "https://i.ibb.co/LNF5rQ6/vert.png",
-        "url": "file:///android_asset/vertSign.html",
+        "url": "vertSign.html",
         "block": "",
         "colorHex": "#D7BA00",
         "type": "web"
@@ -3256,7 +3256,7 @@
       {
         "title": "Тарифҳои БДА",
         "img": "https://i.ibb.co/0cjk28j/denejtarif.png",
-        "url": "file:///android_asset/tarifs.html",
+        "url": "tarifs.html",
         "block": "",
         "colorHex": "#0070C0",
         "type": "web"
