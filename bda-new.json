@@ -4468,6 +4468,7 @@
   "config": {
     "version": 1,
     "indexSMN": 72.0,
+    "disclaimer": true,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.rhapps.kalimayobak",
     "adsBanner": [
       {
