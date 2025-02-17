@@ -1,0 +1,121 @@
+{
+  "config": {
+    "version": 2,
+    "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.farhang",
+    "adsBanner": [
+       {
+        "service": "c",
+        "id": "cas"
+      },
+      {
+        "service": "y",
+        "id": "R-M-1756079-1"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/5961767565"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/4646237348"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/9898564027"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/3767435790"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/6725605773"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/9351769110"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/5604095797"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/6917177468"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/8230259131"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/2318622755"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/7332450488"
+      }
+    ],
+    "adsInterstitial": [
+        {
+        "service": "c",
+        "id": "cas"
+      },
+        {
+        "service": "y",
+        "id": "R-M-1756079-2"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/3579184797"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/2649246503"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/2840818199"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/5658553220"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/7163206582"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/7354778279"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/2677166665"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/4253138069"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/8396359212"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/4181820022"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/5520675368"
+      }
+    ],
+     "adsReward": [
+        {
+        "service": "c",
+        "id": "cas"
+      }
+    ],
+    "message": "Ура! Хорошие новости доступна обновление!"
+  }
+}
