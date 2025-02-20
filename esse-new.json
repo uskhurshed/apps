@@ -1770,9 +1770,13 @@
     }
   ],
   "config": {
-    "version": 300000000,
+    "version": 300000002,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.zkplayer",
     "adsBanner": [
+       {
+        "service": "c",
+        "id": "cas"
+      },
       {
         "service": "y",
         "id": "R-M-1756089-1"
@@ -1823,6 +1827,10 @@
       }
     ],
     "adsInterstitial": [
+      {
+        "service": "c",
+        "id": "cas"
+      },
       {
         "service": "y",
         "id": "R-M-1756089-2"
