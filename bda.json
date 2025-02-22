@@ -3,7 +3,7 @@
     "fineFixd": {
       "name": "Штрафы и наказание",
       "url": "https://i.ibb.co/3vW3TWZ/new.png",
-      "indexSMN": 72,
+      "indexSMN": 75,
       "content": [
         {
           "numberId": 285,
@@ -2124,7 +2124,7 @@
     }
   },
   "config": {
-    "version": 1,
+    "version": 16,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.rhapps.kalimayobak",
     "adsBanner": [
        {
