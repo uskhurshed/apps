@@ -4,6 +4,10 @@
     "version": 10,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.apps.savol",
     "adsBanner": [
+      {
+        "service": "c",
+        "id": "cas"
+      },
        {
         "service": "y",
         "id": "R-M-1756090-1"
@@ -14,6 +18,10 @@
       }
     ],
     "adsInterstitial": [
+       {
+        "service": "c",
+        "id": "cas"
+      },
         {
         "service": "y",
         "id": "R-M-1756090-2"
