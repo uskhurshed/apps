@@ -1,7 +1,7 @@
 
 {
   "config": {
-    "version": 10,
+    "version": 13,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.apps.savol",
     "adsBanner": [
       {
