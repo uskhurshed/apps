@@ -1,8 +1,12 @@
 {
   "config": {
-    "version": 16,
+    "version": 20,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.tower.smasher",
     "adsBanner": [
+      {
+        "service": "c",
+        "id": "cas"
+      },
        {
         "service": "y",
         "id": "R-M-1756090-1"
@@ -53,6 +57,10 @@
       }
     ],
     "adsInterstitial": [
+           {
+        "service": "c",
+        "id": "cas"
+      },
         {
         "service": "y",
         "id": "R-M-1756090-2"
