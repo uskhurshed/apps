@@ -13813,15 +13813,9 @@
   },
   "config": {
     "version": 46,
-    "cabinetIsEnabled": false,
-    "cabinetUrl":"http://cabinet.ntc.tj/Account/Login?ReturnUrl=%2f",
-    "cabinetBlock":"",
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
+    "cabinetIsEnabled":true,
     "adsBanner": [
-       {
-        "service": "c",
-        "id": "cas"
-      },
       {
         "service": "y",
         "id": "R-M-1719790-1"
@@ -13872,10 +13866,6 @@
       }
     ],
     "adsInterstitial": [
-        {
-        "service": "c",
-        "id": "cas"
-      },
       {
         "service": "y",
         "id": "R-M-1719790-2"
