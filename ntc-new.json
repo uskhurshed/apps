@@ -411,27 +411,6 @@
           "web",
           "web"
         ]
-      },
-      "others": {
-        "name": "Другие",
-        "title": [
-          "Личный кабинет"
-        ],
-        "desc": [
-          ""
-        ],
-        "img": [
-          "https://i.ibb.co/JyM62Cr/user.png"
-        ],
-        "url": [
-          "https://cabinet.ntc.tj/Account/Login?ReturnUrl=%2f"
-        ],
-        "subUrl": [
-          "#428BCA"
-        ],
-        "type": [
-          "web"
-        ]
       }
     },
     "checkuself": {
@@ -7317,27 +7296,6 @@
           "web",
           "web"
         ]
-      },
-      "others": {
-        "name": "Дигарҳо",
-        "title": [
-          "Кабинети инфиродӣ"
-        ],
-        "desc": [
-          ""
-        ],
-        "img": [
-          "https://i.ibb.co/JyM62Cr/user.png"
-        ],
-        "url": [
-          "https://cabinet.ntc.tj/Account/Login?ReturnUrl=%2f"
-        ],
-        "subUrl": [
-          "#428BCA"
-        ],
-        "type": [
-          "web"
-        ]
       }
     },
     "checkuself": {
@@ -13815,7 +13773,13 @@
     "version": 46,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
     "cabinetIsEnabled":true,
+    "cabinetUrl":"https://cabinet.ntc.tj/Account/Login?ReturnUrl=%2f",
+    "cabinetBlock":"",
     "adsBanner": [
+        {
+        "service": "c",
+        "id": "cas"
+      },
       {
         "service": "y",
         "id": "R-M-1719790-1"
@@ -13866,6 +13830,10 @@
       }
     ],
     "adsInterstitial": [
+       {
+        "service": "c",
+        "id": "cas"
+      },
       {
         "service": "y",
         "id": "R-M-1719790-2"
