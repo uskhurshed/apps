@@ -417,7 +417,7 @@
       "ctg1": {
         "nameCategory": "Таджикский язык",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/HK6kM2K/quiz-tjk.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -937,7 +937,7 @@
       "ctg2": {
         "nameCategory": "Математика",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/4t6F1q8/quiz-math.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -1457,7 +1457,7 @@
       "ctg3": {
         "nameCategory": "География",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/4dq9C4z/quiz-geo.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -1977,7 +1977,7 @@
       "ctg4": {
         "nameCategory": "Биология",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/nLB4XPb/quiz-bio.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -2497,7 +2497,7 @@
       "ctg5": {
         "nameCategory": "Химия",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/D1CQMBk/quiz-chem.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -3017,7 +3017,7 @@
       "ctg6": {
         "nameCategory": "История",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -3537,7 +3537,7 @@
       "ctg7": {
         "nameCategory": "Право",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/StbH34Q/3.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -4057,7 +4057,7 @@
       "ctg8": {
         "nameCategory": "Литература",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/KK1Csx1/2.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -4577,7 +4577,7 @@
       "ctg9": {
         "nameCategory": "Физика",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/KXvVnm6/1.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -5097,7 +5097,7 @@
       "ctg10": {
         "nameCategory": "Английский язык",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/gtXg8Yx/4.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "variant",
         "questions": [
           {
@@ -5657,7 +5657,7 @@
       "ctg11": {
         "nameCategory": "Немецкий язык",
         "subNameCategory": "Компонент А",
-        "imgCategory": "https://i.ibb.co/YypbKgF/5.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "variant",
         "questions": [
           {
@@ -7302,7 +7302,7 @@
       "ctg1": {
         "nameCategory": "Забони тоҷикӣ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/HK6kM2K/quiz-tjk.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -7822,7 +7822,7 @@
       "ctg2": {
         "nameCategory": "Математика",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/4t6F1q8/quiz-math.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -8342,7 +8342,7 @@
       "ctg3": {
         "nameCategory": "География",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/4dq9C4z/quiz-geo.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -8862,7 +8862,7 @@
       "ctg4": {
         "nameCategory": "Биология",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/nLB4XPb/quiz-bio.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -9382,7 +9382,7 @@
       "ctg5": {
         "nameCategory": "Химия",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/D1CQMBk/quiz-chem.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -9902,7 +9902,7 @@
       "ctg6": {
         "nameCategory": "Таърих ва ҳуқуқ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/vJwWWWJ/quiz-hist.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -10422,7 +10422,7 @@
       "ctg7": {
         "nameCategory": "Ҳуқуқ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/StbH34Q/3.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -10942,7 +10942,7 @@
       "ctg8": {
         "nameCategory": "Адабиёт",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/KK1Csx1/2.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -11462,7 +11462,7 @@
       "ctg9": {
         "nameCategory": "Физика",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/KXvVnm6/1.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "random",
         "questions": [
           {
@@ -11982,7 +11982,7 @@
       "ctg10": {
         "nameCategory": "Забони англисӣ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/gtXg8Yx/4.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "variant",
         "questions": [
           {
@@ -12542,7 +12542,7 @@
       "ctg11": {
         "nameCategory": "Забони немисӣ",
         "subNameCategory": "Қисми А",
-        "imgCategory": "https://i.ibb.co/YypbKgF/5.png",
+        "imgCategory": "https://i.ibb.co/LdXJ88pT/test.png",
         "type": "variant",
         "questions": [
           {
@@ -13772,11 +13772,11 @@
   "config": {
     "version": 46,
     "urlMessage": "https://play.google.com/store/apps/details?id=tj.ntc.easyapps",
-    "cabinetIsEnabled":true,
-    "cabinetUrl":"https://cabinet.ntc.tj/Account/Login?ReturnUrl=%2f",
-    "cabinetBlock":"",
+    "cabinetIsEnabled": true,
+    "cabinetUrl": "https://cabinet.ntc.tj/Account/Login?ReturnUrl=%2f",
+    "cabinetBlock": "",
     "adsBanner": [
-        {
+      {
         "service": "c",
         "id": "cas"
       },
@@ -13830,7 +13830,7 @@
       }
     ],
     "adsInterstitial": [
-       {
+      {
         "service": "c",
         "id": "cas"
       },
