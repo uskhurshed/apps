@@ -932,7 +932,7 @@
     "signs": [
       {
         "title": "Предупреждающие знаки",
-        "img": "https://i.ibb.co/kSKsSsp/predup.png",
+        "img": "https://easyapps.kz/bda/predup.png",
         "url": "signsPredupred.html",
         "block": "",
         "colorHex": "#D70000",
@@ -940,7 +940,7 @@
       },
       {
         "title": "Знаки приоритета",
-        "img": "https://i.ibb.co/5F6rYvC/prioritet.png",
+        "img": "https://easyapps.kz/bda/prioritet.png",
         "url": "signsPrioritet.html",
         "block": "",
         "colorHex": "#D7BA00",
@@ -948,7 +948,7 @@
       },
       {
         "title": "Запрещающие знаки",
-        "img": "https://i.ibb.co/prcKmGT/zapret.png",
+        "img": "https://easyapps.kz/bda/zapret.png",
         "url": "signsZapret.html",
         "block": "",
         "colorHex": "#D70000",
@@ -956,7 +956,7 @@
       },
       {
         "title": "Предписывающие знаки",
-        "img": "https://i.ibb.co/L0kBLMV/predpis.pngg",
+        "img": "https://easyapps.kz/bda/predpis.pngg",
         "url": "signsPredpis.html",
         "block": "",
         "colorHex": "#0000CE",
@@ -964,7 +964,7 @@
       },
       {
         "title": "Информационные знаки",
-        "img": "https://i.ibb.co/mvS0L2D/informa.png",
+        "img": "https://easyapps.kz/bda/informa.png",
         "url": "signsInfo.html",
         "block": "",
         "colorHex": "#0000CE",
@@ -972,7 +972,7 @@
       },
       {
         "title": "Знаки сервиса",
-        "img": "https://i.ibb.co/9sGc3Vy/service.png",
+        "img": "https://easyapps.kz/bda/service.png",
         "url": "signsService.html",
         "block": "",
         "colorHex": "#0000CE",
@@ -980,7 +980,7 @@
       },
       {
         "title": "Знаки доп. информации",
-        "img": "https://i.ibb.co/zsxwLbc/dopznak.png",
+        "img": "https://easyapps.kz/bda/dopznak.png",
         "url": "signsOthers.html",
         "block": "",
         "colorHex": "#48BC48",
@@ -988,7 +988,7 @@
       },
       {
         "title": "Горизонтальные разметки",
-        "img": "https://i.ibb.co/ZNSm36P/horiz.png",
+        "img": "https://easyapps.kz/bda/horiz.png",
         "url": "horizSign.html",
         "block": "",
         "colorHex": "#0000CE",
@@ -996,7 +996,7 @@
       },
       {
         "title": "Вертикальные разметки",
-        "img": "https://i.ibb.co/LNF5rQ6/vert.png",
+        "img": "https://easyapps.kz/bda/vert.png",
         "url": "vertSign.html",
         "block": "",
         "colorHex": "#D7BA00",
@@ -3165,7 +3165,7 @@
     "signs": [
       {
         "title": "Аломатҳои огоҳкунанда",
-        "img": "https://i.ibb.co/kSKsSsp/predup.png",
+        "img": "https://easyapps.kz/bda/predup.png",
         "url": "signsPredupred.html",
         "block": "",
         "colorHex": "#D70000",
@@ -3173,7 +3173,7 @@
       },
       {
         "title": "Аломатҳои афзалиятнок",
-        "img": "https://i.ibb.co/5F6rYvC/prioritet.png",
+        "img": "https://easyapps.kz/bda/prioritet.png",
         "url": "signsPrioritet.html",
         "block": "",
         "colorHex": "#D7BA00",
@@ -3181,7 +3181,7 @@
       },
       {
         "title": "Аломатҳои манъкунӣ",
-        "img": "https://i.ibb.co/prcKmGT/zapret.png",
+        "img": "https://easyapps.kz/bda/zapret.png",
         "url": "signsZapret.html",
         "block": "",
         "colorHex": "#D70000",
@@ -3189,7 +3189,7 @@
       },
       {
         "title": "Аломатҳои ҳатмӣ",
-        "img": "https://i.ibb.co/L0kBLMV/predpis.pngg",
+        "img": "https://easyapps.kz/bda/predpis.pngg",
         "url": "signsPredpis.html",
         "block": "",
         "colorHex": "#0000CE",
@@ -3197,7 +3197,7 @@
       },
       {
         "title": "Аломатҳои иттилоотӣ",
-        "img": "https://i.ibb.co/mvS0L2D/informa.png",
+        "img": "https://easyapps.kz/bda/informa.png",
         "url": "signsInfo.html",
         "block": "",
         "colorHex": "#0000CE",
@@ -3205,7 +3205,7 @@
       },
       {
         "title": "Аломатҳои хизматрасонӣ",
-        "img": "https://i.ibb.co/9sGc3Vy/service.png",
+        "img": "https://easyapps.kz/bda/service.png",
         "url": "signsService.html",
         "block": "",
         "colorHex": "#0000CE",
@@ -3213,7 +3213,7 @@
       },
       {
         "title": "Аломатҳои иловагӣ",
-        "img": "https://i.ibb.co/zsxwLbc/dopznak.png",
+        "img": "https://easyapps.kz/bda/dopznak.png",
         "url": "signsOthers.html",
         "block": "",
         "colorHex": "#48BC48",
@@ -3221,7 +3221,7 @@
       },
       {
         "title": "Нишонаҳои уфуқӣ",
-        "img": "https://i.ibb.co/ZNSm36P/horiz.png",
+        "img": "https://easyapps.kz/bda/horiz.png",
         "url": "horizSign.html",
         "block": "",
         "colorHex": "#0000CE",
@@ -3229,7 +3229,7 @@
       },
       {
         "title": "Нишонаҳои амудӣ",
-        "img": "https://i.ibb.co/LNF5rQ6/vert.png",
+        "img": "https://easyapps.kz/bda/vert.png",
         "url": "vertSign.html",
         "block": "",
         "colorHex": "#D7BA00",
@@ -4471,7 +4471,7 @@
     "disclaimer": false,
     "urlMessage": "https://play.google.com/store/apps/details?id=com.rhapps.kalimayobak",
     "adsBanner": [
-       {
+      {
         "service": "c",
         "id": "cas"
       },
