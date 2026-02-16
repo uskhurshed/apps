@@ -1,0 +1,34 @@
+{
+  "config": {
+    "version": 8,
+    "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.imei",
+    "adsBanner": [
+      {
+        "service": "y",
+        "id": "R-M-1762920-1"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/2481526559"
+      }
+    ],
+    "adsInterstitial": [
+      {
+        "service": "y",
+        "id": "R-M-1762920-2"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-8198363995431120/4916118207"
+      }
+    ],
+    "adsReward": [
+      {
+        "service": "y",
+        "id": "R-M-1762920-3"
+      }
+    ],
+    "message": "Ура! Хорошие новости доступна обновление!"
+  }
+  }
+}
