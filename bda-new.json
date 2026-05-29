@@ -4422,110 +4422,14 @@
     "urlMessage": "https://play.google.com/store/apps/details?id=com.rhapps.kalimayobak",
     "adsBanner": [
       {
-        "service": "c",
-        "id": "cas"
-      },
-      {
         "service": "y",
         "id": "R-M-3297026-1"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/4382558595"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/5695640260"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/3261048613"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/8100681440"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/7570198403"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/1196361745"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/6448688425"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/9074851767"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/1494910495"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/2807992167"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/4064328588"
       }
     ],
     "adsInterstitial": [
       {
-        "service": "c",
-        "id": "cas"
-      },
-      {
         "service": "y",
         "id": "R-M-3297026-2"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/2283008862"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/3203577989"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/5787139608"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/4229719199"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/4612862574"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/6309087625"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/4857201311"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/9023429614"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/3735691335"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/6337007785"
-      },
-      {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/5185838566"
       }
     ],
     "message": "Ура! Хорошие новости доступна обновление!"
