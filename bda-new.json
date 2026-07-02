@@ -12,7 +12,7 @@
     "qa": []
   },
   "config": {
-    "version": 30,
+    "version": 100,
     "indexSMN": 75.0,
     "disclaimer": false,
     "urlMessage": "https://labs.easyapps.kz/store.php?dev.easylabs.pdd&6777485091",
