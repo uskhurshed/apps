@@ -1,7 +1,7 @@
 {
   "config": {
-    "version": 2,
-    "urlMessage": "https://play.google.com/store/apps/details?id=com.easyapps.farhang",
+    "version": 1000,
+    "urlMessage": "https://labs.easyapps.kz/store.php?dev.easylabs.farhang&6789218317",
     "adsBanner": [
       {
         "service": "y",
