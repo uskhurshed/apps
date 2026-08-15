@@ -170,8 +170,8 @@
   }
 ],
   "config": {
-    "version": 6,
-    "urlMessage": "https://play.google.com/store/apps/details?id=com.shufflevpn.easyapps",
+    "version": 100,
+    "urlMessage": "https://labs.easyapps.kz/store.php?dev.easylabs.takvim&6794587931",
     "adsBanner": [
       {
         "service": "c",
@@ -192,6 +192,6 @@
         "id": "R-M-12964175-2"
       }
     ],
-    "message": "Ура! Хорошие новости доступна обновление!"
+    "message": "Барномаи мазкур ба дигар баронаи кучонида шудааст. Акнун бе реклама ва дигар функсианалхо дастрас мебошад!"
   }
 }
