@@ -1,20 +1,15 @@
-
 {
   "config": {
-    "version": 13,
-    "urlMessage": "https://play.google.com/store/apps/details?id=tj.apps.savol",
+    "version": 100,
+    "urlMessage": "https://labs.easyapps.kz/store.php?dev.easylabs.takvim&6794587931",
     "adsBanner": [
       {
         "service": "c",
         "id": "cas"
       },
-       {
-        "service": "y",
-        "id": "R-M-1756090-1"
-      },
       {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/6239872425"
+        "service": "y",
+        "id": "R-M-12964175-1"
       }
     ],
     "adsInterstitial": [
@@ -22,15 +17,11 @@
         "service": "c",
         "id": "cas"
       },
-        {
-        "service": "y",
-        "id": "R-M-1756090-2"
-      },
       {
-        "service": "g",
-        "id": "ca-app-pub-8198363995431120/1858963655"
+        "service": "y",
+        "id": "R-M-12964175-2"
       }
     ],
-    "message": "Ура! Хорошие новости доступна обновление!"
+    "message": "Барномаи мазкур ба дигар барномаи кучонида шудааст. Акнун бе реклама ва дигар функсианалхо дастрас мебошад!"
   }
 }
